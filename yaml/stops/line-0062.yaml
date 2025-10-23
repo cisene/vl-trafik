@@ -1,0 +1,393 @@
+stops:
+
+- name: Kungsängsgymnasiet
+  line: 62
+  index: 0
+  urn: urn:vl-trafik:stop:063012
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörskogsleden
+  line: 62
+  index: 1
+  urn: urn:vl-trafik:stop:063093
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stockholmsvägen
+  line: 62
+  index: 2
+  urn: urn:vl-trafik:stop:063094
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Väsbygatan
+  line: 62
+  index: 3
+  urn: urn:vl-trafik:stop:063061
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sala Resecentrum
+  line: 62
+  index: 4
+  urn: urn:vl-trafik:stop:063999
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fiskartorget
+  line: 62
+  index: 5
+  urn: urn:vl-trafik:stop:063002
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ekebygatan
+  line: 62
+  index: 6
+  urn: urn:vl-trafik:stop:063037
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nya vattentornet
+  line: 62
+  index: 7
+  urn: urn:vl-trafik:stop:063113
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gruvan
+  line: 62
+  index: 8
+  urn: urn:vl-trafik:stop:063112
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Finntorpsvägen
+  line: 62
+  index: 9
+  urn: urn:vl-trafik:stop:063111
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Trefoten
+  line: 62
+  index: 10
+  urn: urn:vl-trafik:stop:063110
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Evelund
+  line: 62
+  index: 11
+  urn: urn:vl-trafik:stop:063109
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kila
+  line: 62
+  index: 12
+  urn: urn:vl-trafik:stop:063107
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kullbacken
+  line: 62
+  index: 13
+  urn: urn:vl-trafik:stop:063105
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Grällsta
+  line: 62
+  index: 14
+  urn: urn:vl-trafik:stop:063025
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Grällsta stuteri
+  line: 62
+  index: 15
+  urn: urn:vl-trafik:stop:063120
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norsberg
+  line: 62
+  index: 16
+  urn: urn:vl-trafik:stop:063119
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skultuna vsk
+  line: 62
+  index: 17
+  urn: urn:vl-trafik:stop:063118
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lånsta
+  line: 62
+  index: 18
+  urn: urn:vl-trafik:stop:063117
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörängen
+  line: 62
+  index: 19
+  urn: urn:vl-trafik:stop:063116
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tullsta
+  line: 62
+  index: 20
+  urn: urn:vl-trafik:stop:063108
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hagaberg
+  line: 62
+  index: 21
+  urn: urn:vl-trafik:stop:063104
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Strömsberg
+  line: 62
+  index: 22
+  urn: urn:vl-trafik:stop:063103
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vargstubacken
+  line: 62
+  index: 23
+  urn: urn:vl-trafik:stop:063102
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Olsbo Gård
+  line: 62
+  index: 24
+  urn: urn:vl-trafik:stop:063324
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tomta vsk
+  line: 62
+  index: 25
+  urn: urn:vl-trafik:stop:063036
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hjulhuset
+  line: 62
+  index: 26
+  urn: urn:vl-trafik:stop:063095
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gubbvad
+  line: 62
+  index: 27
+  urn: urn:vl-trafik:stop:063096
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Muren
+  line: 62
+  index: 28
+  urn: urn:vl-trafik:stop:063097
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Dalkarstorp
+  line: 62
+  index: 29
+  urn: urn:vl-trafik:stop:063098
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sätra skidstadion
+  line: 62
+  index: 30
+  urn: urn:vl-trafik:stop:063372
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hebo
+  line: 62
+  index: 31
+  urn: urn:vl-trafik:stop:063099
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Olsbo
+  line: 62
+  index: 32
+  urn: urn:vl-trafik:stop:063026
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norrlund vsk
+  line: 62
+  index: 33
+  urn: urn:vl-trafik:stop:063100
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Badanstalten
+  line: 62
+  index: 34
+  urn: urn:vl-trafik:stop:063101
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sätrabrunn
+  line: 62
+  index: 35
+  urn: urn:vl-trafik:stop:063027
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Furuvägen
+  line: 62
+  index: 36
+  urn: urn:vl-trafik:stop:063152
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sandviken
+  line: 62
+  index: 37
+  urn: urn:vl-trafik:stop:063153
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hedåsen
+  line: 62
+  index: 38
+  urn: urn:vl-trafik:stop:063154
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Holmbo
+  line: 62
+  index: 39
+  urn: urn:vl-trafik:stop:063157
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Heden
+  line: 62
+  index: 40
+  urn: urn:vl-trafik:stop:063155
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hassmyra södra
+  line: 62
+  index: 41
+  urn: urn:vl-trafik:stop:063366
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hassmyra
+  line: 62
+  index: 42
+  urn: urn:vl-trafik:stop:063156
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fläckebo k:a
+  line: 62
+  index: 43
+  urn: urn:vl-trafik:stop:063028
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Veddarsbo
+  line: 62
+  index: 44
+  urn: urn:vl-trafik:stop:063158
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sand
+  line: 62
+  index: 45
+  urn: urn:vl-trafik:stop:063159
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Salbohed
+  line: 62
+  index: 46
+  urn: urn:vl-trafik:stop:063020
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörsalbo
+  line: 62
+  index: 47
+  urn: urn:vl-trafik:stop:063140
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norrsalbo
+  line: 62
+  index: 48
+  urn: urn:vl-trafik:stop:063141
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Finnbo
+  line: 62
+  index: 49
+  urn: urn:vl-trafik:stop:063142
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hammaren södra
+  line: 62
+  index: 50
+  urn: urn:vl-trafik:stop:063143
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hammaren norra
+  line: 62
+  index: 51
+  urn: urn:vl-trafik:stop:063144
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Islingby
+  line: 62
+  index: 52
+  urn: urn:vl-trafik:stop:063145
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Prosthagsvägen
+  line: 62
+  index: 53
+  urn: urn:vl-trafik:stop:063146
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerfärnebo
+  line: 62
+  index: 54
+  urn: urn:vl-trafik:stop:063021
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerfärnebo skola
+  line: 62
+  index: 55
+  urn: urn:vl-trafik:stop:063332
+  latitude: 0.0
+  longitude: 0.0

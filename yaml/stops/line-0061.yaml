@@ -1,0 +1,281 @@
+stops:
+
+- name: Sala Resecentrum
+  line: 61
+  index: 0
+  urn: urn:vl-trafik:stop:063999
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fiskartorget
+  line: 61
+  index: 1
+  urn: urn:vl-trafik:stop:063002
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ekebygatan
+  line: 61
+  index: 2
+  urn: urn:vl-trafik:stop:063037
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nya vattentornet
+  line: 61
+  index: 3
+  urn: urn:vl-trafik:stop:063113
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Mellandammsvägen
+  line: 61
+  index: 4
+  urn: urn:vl-trafik:stop:063121
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gravhagen
+  line: 61
+  index: 5
+  urn: urn:vl-trafik:stop:063122
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Aspenstorp
+  line: 61
+  index: 6
+  urn: urn:vl-trafik:stop:063123
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Styrars
+  line: 61
+  index: 7
+  urn: urn:vl-trafik:stop:063007
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Pilhagen
+  line: 61
+  index: 8
+  urn: urn:vl-trafik:stop:063124
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stampers
+  line: 61
+  index: 9
+  urn: urn:vl-trafik:stop:063008
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kolbäcksbro
+  line: 61
+  index: 10
+  urn: urn:vl-trafik:stop:063018
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörbo
+  line: 61
+  index: 11
+  urn: urn:vl-trafik:stop:063127
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kattebo
+  line: 61
+  index: 12
+  urn: urn:vl-trafik:stop:063128
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ringvalla östra
+  line: 61
+  index: 13
+  urn: urn:vl-trafik:stop:063129
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ringvalla västra
+  line: 61
+  index: 14
+  urn: urn:vl-trafik:stop:063130
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Berga vsk
+  line: 61
+  index: 15
+  urn: urn:vl-trafik:stop:063131
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nygård
+  line: 61
+  index: 16
+  urn: urn:vl-trafik:stop:063132
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Öster Gullvalla
+  line: 61
+  index: 17
+  urn: urn:vl-trafik:stop:063133
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gullvalla
+  line: 61
+  index: 18
+  urn: urn:vl-trafik:stop:063019
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gullvalla västra
+  line: 61
+  index: 19
+  urn: urn:vl-trafik:stop:063135
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Smedsbo vsk
+  line: 61
+  index: 20
+  urn: urn:vl-trafik:stop:063136
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stävre
+  line: 61
+  index: 21
+  urn: urn:vl-trafik:stop:063137
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ängsholmen
+  line: 61
+  index: 22
+  urn: urn:vl-trafik:stop:063138
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Mossvägen
+  line: 61
+  index: 23
+  urn: urn:vl-trafik:stop:063139
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Salbohed
+  line: 61
+  index: 24
+  urn: urn:vl-trafik:stop:063020
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörsalbo
+  line: 61
+  index: 25
+  urn: urn:vl-trafik:stop:063140
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norrsalbo
+  line: 61
+  index: 26
+  urn: urn:vl-trafik:stop:063141
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Finnbo
+  line: 61
+  index: 27
+  urn: urn:vl-trafik:stop:063142
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hammaren södra
+  line: 61
+  index: 28
+  urn: urn:vl-trafik:stop:063143
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hammaren norra
+  line: 61
+  index: 29
+  urn: urn:vl-trafik:stop:063144
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Islingby
+  line: 61
+  index: 30
+  urn: urn:vl-trafik:stop:063145
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Prosthagsvägen
+  line: 61
+  index: 31
+  urn: urn:vl-trafik:stop:063146
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerfärnebo
+  line: 61
+  index: 32
+  urn: urn:vl-trafik:stop:063021
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vagnsbro
+  line: 61
+  index: 33
+  urn: urn:vl-trafik:stop:063147
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lysbacken
+  line: 61
+  index: 34
+  urn: urn:vl-trafik:stop:063148
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Backa
+  line: 61
+  index: 35
+  urn: urn:vl-trafik:stop:063149
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Prästhyttan vsk
+  line: 61
+  index: 36
+  urn: urn:vl-trafik:stop:063150
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerby
+  line: 61
+  index: 37
+  urn: urn:vl-trafik:stop:063151
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hörnsjöfors
+  line: 61
+  index: 38
+  urn: urn:vl-trafik:stop:063022
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerfärnebo skola
+  line: 61
+  index: 39
+  urn: urn:vl-trafik:stop:063332
+  latitude: 0.0
+  longitude: 0.0

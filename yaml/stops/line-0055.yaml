@@ -1,0 +1,71 @@
+stops:
+
+- name: Arboga Resecentrum
+  line: 55
+  index: 0
+  urn: urn:vl-trafik:stop:300300
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Jäderstullen
+  line: 55
+  index: 1
+  urn: urn:vl-trafik:stop:300304
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vinbäcken
+  line: 55
+  index: 2
+  urn: urn:vl-trafik:stop:313238
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tjurlången
+  line: 55
+  index: 3
+  urn: urn:vl-trafik:stop:062015
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tjurlånga
+  line: 55
+  index: 4
+  urn: urn:vl-trafik:stop:313240
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Racksätter
+  line: 55
+  index: 5
+  urn: urn:vl-trafik:stop:313242
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nyby
+  line: 55
+  index: 6
+  urn: urn:vl-trafik:stop:313244
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Långhäll
+  line: 55
+  index: 7
+  urn: urn:vl-trafik:stop:062013
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Änglund
+  line: 55
+  index: 8
+  urn: urn:vl-trafik:stop:313246
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Götlunda Fårtallen
+  line: 55
+  index: 9
+  urn: urn:vl-trafik:stop:313250
+  latitude: 0.0
+  longitude: 0.0

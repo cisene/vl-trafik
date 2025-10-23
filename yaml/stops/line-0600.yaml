@@ -1,0 +1,225 @@
+stops:
+
+- name: Munga fritidsområde 4
+  line: 600
+  index: 0
+  urn: urn:vl-trafik:stop:060344
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hummelsta
+  line: 600
+  index: 1
+  urn: urn:vl-trafik:stop:060361
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skråmsta
+  line: 600
+  index: 2
+  urn: urn:vl-trafik:stop:060373
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fröbbenbo
+  line: 600
+  index: 3
+  urn: urn:vl-trafik:stop:060589
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vagersta Frideborg
+  line: 600
+  index: 4
+  urn: urn:vl-trafik:stop:060648
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tomta 2
+  line: 600
+  index: 5
+  urn: urn:vl-trafik:stop:060647
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Käpplinge
+  line: 600
+  index: 6
+  urn: urn:vl-trafik:stop:060646
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Brunnsby
+  line: 600
+  index: 7
+  urn: urn:vl-trafik:stop:060634
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hallsta vsk
+  line: 600
+  index: 8
+  urn: urn:vl-trafik:stop:060280
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Romfartuna skola
+  line: 600
+  index: 9
+  urn: urn:vl-trafik:stop:060804
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Munga fritidsområde 2
+  line: 600
+  index: 10
+  urn: urn:vl-trafik:stop:060342
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Östra Munga
+  line: 600
+  index: 11
+  urn: urn:vl-trafik:stop:060371
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Harakers kvarn
+  line: 600
+  index: 12
+  urn: urn:vl-trafik:stop:060643
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Adelsberg
+  line: 600
+  index: 13
+  urn: urn:vl-trafik:stop:060642
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Adelsberg 2
+  line: 600
+  index: 14
+  urn: urn:vl-trafik:stop:060629
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Harakers kyrkby
+  line: 600
+  index: 15
+  urn: urn:vl-trafik:stop:060631
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gräna/Ulvsta
+  line: 600
+  index: 16
+  urn: urn:vl-trafik:stop:060636
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Färdskär
+  line: 600
+  index: 17
+  urn: urn:vl-trafik:stop:060637
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Svanå herrgård
+  line: 600
+  index: 18
+  urn: urn:vl-trafik:stop:060632
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Svanå 12
+  line: 600
+  index: 19
+  urn: urn:vl-trafik:stop:060640
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bovallen
+  line: 600
+  index: 20
+  urn: urn:vl-trafik:stop:060635
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Svanå station
+  line: 600
+  index: 21
+  urn: urn:vl-trafik:stop:060630
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skarvsta
+  line: 600
+  index: 22
+  urn: urn:vl-trafik:stop:060638
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ekeby
+  line: 600
+  index: 23
+  urn: urn:vl-trafik:stop:060335
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hägervallen
+  line: 600
+  index: 24
+  urn: urn:vl-trafik:stop:060641
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åkesta
+  line: 600
+  index: 25
+  urn: urn:vl-trafik:stop:060321
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Södra Nackby
+  line: 600
+  index: 26
+  urn: urn:vl-trafik:stop:060645
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skädduga 6
+  line: 600
+  index: 27
+  urn: urn:vl-trafik:stop:060644
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norra Läjde
+  line: 600
+  index: 28
+  urn: urn:vl-trafik:stop:060322
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Frövi Gård vägskäl
+  line: 600
+  index: 29
+  urn: urn:vl-trafik:stop:060639
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Persboskolan
+  line: 600
+  index: 30
+  urn: urn:vl-trafik:stop:060065
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tibbleskolan
+  line: 600
+  index: 31
+  urn: urn:vl-trafik:stop:060063
+  latitude: 0.0
+  longitude: 0.0

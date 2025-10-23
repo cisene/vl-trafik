@@ -1,0 +1,330 @@
+stops:
+
+- name: Kungsängsgymnasiet
+  line: 64
+  index: 0
+  urn: urn:vl-trafik:stop:063012
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörskogsleden
+  line: 64
+  index: 1
+  urn: urn:vl-trafik:stop:063093
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stockholmsvägen
+  line: 64
+  index: 2
+  urn: urn:vl-trafik:stop:063094
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Väsbygatan
+  line: 64
+  index: 3
+  urn: urn:vl-trafik:stop:063061
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fiskartorget
+  line: 64
+  index: 4
+  urn: urn:vl-trafik:stop:063002
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sala Resecentrum
+  line: 64
+  index: 5
+  urn: urn:vl-trafik:stop:063999
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Karpgatan
+  line: 64
+  index: 6
+  urn: urn:vl-trafik:stop:063191
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Mamre
+  line: 64
+  index: 7
+  urn: urn:vl-trafik:stop:063315
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ensta
+  line: 64
+  index: 8
+  urn: urn:vl-trafik:stop:063163
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Prästgården
+  line: 64
+  index: 9
+  urn: urn:vl-trafik:stop:063164
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kornmanstorp södra
+  line: 64
+  index: 10
+  urn: urn:vl-trafik:stop:063165
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kornmanstorp norra
+  line: 64
+  index: 11
+  urn: urn:vl-trafik:stop:063166
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Katrinelund
+  line: 64
+  index: 12
+  urn: urn:vl-trafik:stop:063167
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ingeborg
+  line: 64
+  index: 13
+  urn: urn:vl-trafik:stop:063168
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Framnäs
+  line: 64
+  index: 14
+  urn: urn:vl-trafik:stop:063169
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Köpalla
+  line: 64
+  index: 15
+  urn: urn:vl-trafik:stop:063170
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fågelsbo
+  line: 64
+  index: 16
+  urn: urn:vl-trafik:stop:063171
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åby
+  line: 64
+  index: 17
+  urn: urn:vl-trafik:stop:063172
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Saladamm Södra
+  line: 64
+  index: 18
+  urn: urn:vl-trafik:stop:063173
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Saladamm
+  line: 64
+  index: 19
+  urn: urn:vl-trafik:stop:063016
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Saladamm norra
+  line: 64
+  index: 20
+  urn: urn:vl-trafik:stop:063174
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ingborgbo
+  line: 64
+  index: 21
+  urn: urn:vl-trafik:stop:063318
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Springargruvan
+  line: 64
+  index: 22
+  urn: urn:vl-trafik:stop:063367
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sund
+  line: 64
+  index: 23
+  urn: urn:vl-trafik:stop:063292
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Österbo
+  line: 64
+  index: 24
+  urn: urn:vl-trafik:stop:063045
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lisselbo
+  line: 64
+  index: 25
+  urn: urn:vl-trafik:stop:063293
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Östankil
+  line: 64
+  index: 26
+  urn: urn:vl-trafik:stop:063326
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nordankil S
+  line: 64
+  index: 27
+  urn: urn:vl-trafik:stop:063294
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nordankil
+  line: 64
+  index: 28
+  urn: urn:vl-trafik:stop:063046
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västankil
+  line: 64
+  index: 29
+  urn: urn:vl-trafik:stop:063295
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kyrkskogen
+  line: 64
+  index: 30
+  urn: urn:vl-trafik:stop:063319
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åsvägen
+  line: 64
+  index: 31
+  urn: urn:vl-trafik:stop:063296
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Silvermyntgatan
+  line: 64
+  index: 32
+  urn: urn:vl-trafik:stop:063192
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åkraskolan
+  line: 64
+  index: 33
+  urn: urn:vl-trafik:stop:063004
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åkraskolan Johannisbergsgatan
+  line: 64
+  index: 34
+  urn: urn:vl-trafik:stop:063364
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Möklinta
+  line: 64
+  index: 35
+  urn: urn:vl-trafik:stop:063030
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Möklinta skola
+  line: 64
+  index: 36
+  urn: urn:vl-trafik:stop:063258
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hammarby
+  line: 64
+  index: 37
+  urn: urn:vl-trafik:stop:063297
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Visbäck
+  line: 64
+  index: 38
+  urn: urn:vl-trafik:stop:063298
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Leckenbo (Möklinta)
+  line: 64
+  index: 39
+  urn: urn:vl-trafik:stop:063328
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norrvad vsk
+  line: 64
+  index: 40
+  urn: urn:vl-trafik:stop:063299
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nässelbo
+  line: 64
+  index: 41
+  urn: urn:vl-trafik:stop:063300
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Berga
+  line: 64
+  index: 42
+  urn: urn:vl-trafik:stop:063047
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skogslund
+  line: 64
+  index: 43
+  urn: urn:vl-trafik:stop:063314
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rosshyttan ruin
+  line: 64
+  index: 44
+  urn: urn:vl-trafik:stop:063301
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rosshyttan östra
+  line: 64
+  index: 45
+  urn: urn:vl-trafik:stop:063302
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rosshyttan
+  line: 64
+  index: 46
+  urn: urn:vl-trafik:stop:063048
+  latitude: 0.0
+  longitude: 0.0

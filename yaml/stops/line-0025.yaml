@@ -1,0 +1,92 @@
+stops:
+
+- name: Gäddeholm
+  line: 25
+  index: 0
+  urn: urn:vl-trafik:stop:060603
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Betesvägen
+  line: 25
+  index: 1
+  urn: urn:vl-trafik:stop:060626
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hagbyholm
+  line: 25
+  index: 2
+  urn: urn:vl-trafik:stop:060339
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Klinta
+  line: 25
+  index: 3
+  urn: urn:vl-trafik:stop:060338
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hässlögatan
+  line: 25
+  index: 4
+  urn: urn:vl-trafik:stop:060337
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hälla
+  line: 25
+  index: 5
+  urn: urn:vl-trafik:stop:360128
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tortunavägen
+  line: 25
+  index: 6
+  urn: urn:vl-trafik:stop:360127
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skiljebomotet
+  line: 25
+  index: 7
+  urn: urn:vl-trafik:stop:360126
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Knektgatan
+  line: 25
+  index: 8
+  urn: urn:vl-trafik:stop:060358
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kungsängsgatan
+  line: 25
+  index: 9
+  urn: urn:vl-trafik:stop:360047
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Pilgatan
+  line: 25
+  index: 10
+  urn: urn:vl-trafik:stop:360023
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Östra Ringvägen
+  line: 25
+  index: 11
+  urn: urn:vl-trafik:stop:360007
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerås Central
+  line: 25
+  index: 12
+  urn: urn:vl-trafik:stop:360000
+  latitude: 0.0
+  longitude: 0.0

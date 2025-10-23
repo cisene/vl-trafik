@@ -1,0 +1,120 @@
+stops:
+
+- name: Arboga Resecentrum
+  line: 54
+  index: 0
+  urn: urn:vl-trafik:stop:300300
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skandiagatan
+  line: 54
+  index: 1
+  urn: urn:vl-trafik:stop:163001
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Godby
+  line: 54
+  index: 2
+  urn: urn:vl-trafik:stop:313260
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Jädersby
+  line: 54
+  index: 3
+  urn: urn:vl-trafik:stop:313262
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tallbo
+  line: 54
+  index: 4
+  urn: urn:vl-trafik:stop:062030
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hagbylund
+  line: 54
+  index: 5
+  urn: urn:vl-trafik:stop:313264
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vretberga
+  line: 54
+  index: 6
+  urn: urn:vl-trafik:stop:313266
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hagby/Norskoga
+  line: 54
+  index: 7
+  urn: urn:vl-trafik:stop:313268
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Medåkers kyrka
+  line: 54
+  index: 8
+  urn: urn:vl-trafik:stop:313270
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Byringevägen
+  line: 54
+  index: 9
+  urn: urn:vl-trafik:stop:062032
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ålbrovägen
+  line: 54
+  index: 10
+  urn: urn:vl-trafik:stop:313272
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Medåkers skola
+  line: 54
+  index: 11
+  urn: urn:vl-trafik:stop:313274
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Garlinge
+  line: 54
+  index: 12
+  urn: urn:vl-trafik:stop:313276
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Granlund
+  line: 54
+  index: 13
+  urn: urn:vl-trafik:stop:062019
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Smedstorp
+  line: 54
+  index: 14
+  urn: urn:vl-trafik:stop:062018
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fillinge
+  line: 54
+  index: 15
+  urn: urn:vl-trafik:stop:062011
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Smedby
+  line: 54
+  index: 16
+  urn: urn:vl-trafik:stop:313287
+  latitude: 0.0
+  longitude: 0.0

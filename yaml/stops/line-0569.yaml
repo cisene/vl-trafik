@@ -1,0 +1,218 @@
+stops:
+
+- name: Sala Resecentrum
+  line: 569
+  index: 0
+  urn: urn:vl-trafik:stop:063999
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Silvermyntgatan
+  line: 569
+  index: 1
+  urn: urn:vl-trafik:stop:063192
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nya vattentornet
+  line: 569
+  index: 2
+  urn: urn:vl-trafik:stop:063113
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gruvan
+  line: 569
+  index: 3
+  urn: urn:vl-trafik:stop:063112
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Finntorpsvägen
+  line: 569
+  index: 4
+  urn: urn:vl-trafik:stop:063111
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Trefoten
+  line: 569
+  index: 5
+  urn: urn:vl-trafik:stop:063110
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Evelund
+  line: 569
+  index: 6
+  urn: urn:vl-trafik:stop:063109
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kila
+  line: 569
+  index: 7
+  urn: urn:vl-trafik:stop:063107
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kullbacken
+  line: 569
+  index: 8
+  urn: urn:vl-trafik:stop:063105
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Grällsta
+  line: 569
+  index: 9
+  urn: urn:vl-trafik:stop:063025
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Grällsta stuteri
+  line: 569
+  index: 10
+  urn: urn:vl-trafik:stop:063120
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norsberg
+  line: 569
+  index: 11
+  urn: urn:vl-trafik:stop:063119
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skultuna vsk
+  line: 569
+  index: 12
+  urn: urn:vl-trafik:stop:063118
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lånsta
+  line: 569
+  index: 13
+  urn: urn:vl-trafik:stop:063117
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörängen
+  line: 569
+  index: 14
+  urn: urn:vl-trafik:stop:063116
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tomta vsk
+  line: 569
+  index: 15
+  urn: urn:vl-trafik:stop:063036
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hallsta vsk
+  line: 569
+  index: 16
+  urn: urn:vl-trafik:stop:060375
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åbylunds vsk
+  line: 569
+  index: 17
+  urn: urn:vl-trafik:stop:060513
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tösta
+  line: 569
+  index: 18
+  urn: urn:vl-trafik:stop:060511
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Romfartuna IP
+  line: 569
+  index: 19
+  urn: urn:vl-trafik:stop:060376
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Igelsta
+  line: 569
+  index: 20
+  urn: urn:vl-trafik:stop:060509
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Viggby
+  line: 569
+  index: 21
+  urn: urn:vl-trafik:stop:060506
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ansta
+  line: 569
+  index: 22
+  urn: urn:vl-trafik:stop:060377
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lundamotet
+  line: 569
+  index: 23
+  urn: urn:vl-trafik:stop:060500
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nordanbymotet
+  line: 569
+  index: 24
+  urn: urn:vl-trafik:stop:360117
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gideonsbergsmotet
+  line: 569
+  index: 25
+  urn: urn:vl-trafik:stop:060253
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bergslagsvägen
+  line: 569
+  index: 26
+  urn: urn:vl-trafik:stop:060516
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gesällgatan
+  line: 569
+  index: 27
+  urn: urn:vl-trafik:stop:360112
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kristiansborgsbadet
+  line: 569
+  index: 28
+  urn: urn:vl-trafik:stop:360111
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kopparlunden
+  line: 569
+  index: 29
+  urn: urn:vl-trafik:stop:360006
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerås Central
+  line: 569
+  index: 30
+  urn: urn:vl-trafik:stop:360000
+  latitude: 0.0
+  longitude: 0.0

@@ -1,0 +1,218 @@
+stops:
+
+- name: Bjurhovda
+  line: 1
+  index: 0
+  urn: urn:vl-trafik:stop:360033
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kungshögsgatan
+  line: 1
+  index: 1
+  urn: urn:vl-trafik:stop:360032
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Forntidsgatan
+  line: 1
+  index: 2
+  urn: urn:vl-trafik:stop:360031
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bjurhovdamotet
+  line: 1
+  index: 3
+  urn: urn:vl-trafik:stop:360030
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Odensviplatsen
+  line: 1
+  index: 4
+  urn: urn:vl-trafik:stop:360029
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stentorpsgatan
+  line: 1
+  index: 5
+  urn: urn:vl-trafik:stop:360028
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Adelsögatan
+  line: 1
+  index: 6
+  urn: urn:vl-trafik:stop:360027
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sjukhuset Västerås
+  line: 1
+  index: 7
+  urn: urn:vl-trafik:stop:360026
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hemdalsvägen
+  line: 1
+  index: 8
+  urn: urn:vl-trafik:stop:360025
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Retortgatan
+  line: 1
+  index: 9
+  urn: urn:vl-trafik:stop:360024
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Pilgatan
+  line: 1
+  index: 10
+  urn: urn:vl-trafik:stop:360023
+  latitude: 0.0
+  longitude: 0.0
+
+- name: &#214;stra Ringvägen
+  line: 1
+  index: 11
+  urn: urn:vl-trafik:stop:360007
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerås Central
+  line: 1
+  index: 12
+  urn: urn:vl-trafik:stop:360000
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västgötegatan
+  line: 1
+  index: 13
+  urn: urn:vl-trafik:stop:060240
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stora Gatan
+  line: 1
+  index: 14
+  urn: urn:vl-trafik:stop:360001
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Källgatan
+  line: 1
+  index: 15
+  urn: urn:vl-trafik:stop:360002
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Oxbacken
+  line: 1
+  index: 16
+  urn: urn:vl-trafik:stop:360008
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tomtebovägen
+  line: 1
+  index: 17
+  urn: urn:vl-trafik:stop:360009
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sjöhagen
+  line: 1
+  index: 18
+  urn: urn:vl-trafik:stop:360010
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Liegatan
+  line: 1
+  index: 19
+  urn: urn:vl-trafik:stop:360011
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hammarby C
+  line: 1
+  index: 20
+  urn: urn:vl-trafik:stop:360012
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bygatan
+  line: 1
+  index: 21
+  urn: urn:vl-trafik:stop:360013
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stålverksgatan
+  line: 1
+  index: 22
+  urn: urn:vl-trafik:stop:360014
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stångjärnsgatan
+  line: 1
+  index: 23
+  urn: urn:vl-trafik:stop:360015
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Välljärnsgatan
+  line: 1
+  index: 24
+  urn: urn:vl-trafik:stop:360016
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vårdcentralen
+  line: 1
+  index: 25
+  urn: urn:vl-trafik:stop:360017
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bäckby C
+  line: 1
+  index: 26
+  urn: urn:vl-trafik:stop:360018
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Smältverksgatan
+  line: 1
+  index: 27
+  urn: urn:vl-trafik:stop:360019
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rösegårdsgatan
+  line: 1
+  index: 28
+  urn: urn:vl-trafik:stop:360020
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skälbygatan
+  line: 1
+  index: 29
+  urn: urn:vl-trafik:stop:360021
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skälby
+  line: 1
+  index: 30
+  urn: urn:vl-trafik:stop:360022
+  latitude: 0.0
+  longitude: 0.0

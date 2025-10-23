@@ -1,0 +1,253 @@
+stops:
+
+- name: Centralskolan
+  line: 86
+  index: 0
+  urn: urn:vl-trafik:stop:068028
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norbergs Bstn
+  line: 86
+  index: 1
+  urn: urn:vl-trafik:stop:069018
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norbergs järnvägsstation
+  line: 86
+  index: 2
+  urn: urn:vl-trafik:stop:068006
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Järnvägsgatan
+  line: 86
+  index: 3
+  urn: urn:vl-trafik:stop:068007
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stutbo vsk
+  line: 86
+  index: 4
+  urn: urn:vl-trafik:stop:068008
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rosendal
+  line: 86
+  index: 5
+  urn: urn:vl-trafik:stop:068009
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Trättsbo
+  line: 86
+  index: 6
+  urn: urn:vl-trafik:stop:068010
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Livsdal
+  line: 86
+  index: 7
+  urn: urn:vl-trafik:stop:068011
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Mauritzbacke
+  line: 86
+  index: 8
+  urn: urn:vl-trafik:stop:068012
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hönsgärdet Norra
+  line: 86
+  index: 9
+  urn: urn:vl-trafik:stop:068013
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hönsgärdet Södra
+  line: 86
+  index: 10
+  urn: urn:vl-trafik:stop:068014
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Högfors
+  line: 86
+  index: 11
+  urn: urn:vl-trafik:stop:068015
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Antorpet
+  line: 86
+  index: 12
+  urn: urn:vl-trafik:stop:068016
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Erlandsbo
+  line: 86
+  index: 13
+  urn: urn:vl-trafik:stop:068017
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hyttbacken
+  line: 86
+  index: 14
+  urn: urn:vl-trafik:stop:068018
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Karbenning Station
+  line: 86
+  index: 15
+  urn: urn:vl-trafik:stop:068019
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Karbenning
+  line: 86
+  index: 16
+  urn: urn:vl-trafik:stop:068020
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hyvlarvägen
+  line: 86
+  index: 17
+  urn: urn:vl-trafik:stop:068021
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nickebo skola
+  line: 86
+  index: 18
+  urn: urn:vl-trafik:stop:068022
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Broarna
+  line: 86
+  index: 19
+  urn: urn:vl-trafik:stop:068023
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Karbenning k:a vsk
+  line: 86
+  index: 20
+  urn: urn:vl-trafik:stop:068024
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hästbäck
+  line: 86
+  index: 21
+  urn: urn:vl-trafik:stop:068025
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Långsjö
+  line: 86
+  index: 22
+  urn: urn:vl-trafik:stop:068040
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Örbäck Norr
+  line: 86
+  index: 23
+  urn: urn:vl-trafik:stop:068026
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Örbäck
+  line: 86
+  index: 24
+  urn: urn:vl-trafik:stop:068027
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nyhyttan
+  line: 86
+  index: 25
+  urn: urn:vl-trafik:stop:063054
+  latitude: 0.0
+  longitude: 0.0
+
+- name: N Hörende
+  line: 86
+  index: 26
+  urn: urn:vl-trafik:stop:063055
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sjövik
+  line: 86
+  index: 27
+  urn: urn:vl-trafik:stop:063056
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Forsviken
+  line: 86
+  index: 28
+  urn: urn:vl-trafik:stop:068041
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hörnsjöfors
+  line: 86
+  index: 29
+  urn: urn:vl-trafik:stop:063022
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerby
+  line: 86
+  index: 30
+  urn: urn:vl-trafik:stop:063151
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Prästhyttan vsk
+  line: 86
+  index: 31
+  urn: urn:vl-trafik:stop:063150
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Backa
+  line: 86
+  index: 32
+  urn: urn:vl-trafik:stop:063149
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lysbacken
+  line: 86
+  index: 33
+  urn: urn:vl-trafik:stop:063148
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vagnsbro
+  line: 86
+  index: 34
+  urn: urn:vl-trafik:stop:063147
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerfärnebo
+  line: 86
+  index: 35
+  urn: urn:vl-trafik:stop:063021
+  latitude: 0.0
+  longitude: 0.0

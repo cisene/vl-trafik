@@ -1,0 +1,246 @@
+stops:
+
+- name: Köping Jvstn
+  line: 502
+  index: 0
+  urn: urn:vl-trafik:stop:300200
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sjukhuset Köping
+  line: 502
+  index: 1
+  urn: urn:vl-trafik:stop:300205
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hökartorget
+  line: 502
+  index: 2
+  urn: urn:vl-trafik:stop:300207
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Torggatan
+  line: 502
+  index: 3
+  urn: urn:vl-trafik:stop:300208
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nya Hamnvägen
+  line: 502
+  index: 4
+  urn: urn:vl-trafik:stop:061351
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Husta
+  line: 502
+  index: 5
+  urn: urn:vl-trafik:stop:312110
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Grönö
+  line: 502
+  index: 6
+  urn: urn:vl-trafik:stop:316333
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åsta Gata
+  line: 502
+  index: 7
+  urn: urn:vl-trafik:stop:316331
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åsta kurva
+  line: 502
+  index: 8
+  urn: urn:vl-trafik:stop:316229
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åsta Smedja
+  line: 502
+  index: 9
+  urn: urn:vl-trafik:stop:316227
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ljungs väg
+  line: 502
+  index: 10
+  urn: urn:vl-trafik:stop:316225
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Raknö
+  line: 502
+  index: 11
+  urn: urn:vl-trafik:stop:316223
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hällegård
+  line: 502
+  index: 12
+  urn: urn:vl-trafik:stop:316221
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Granö
+  line: 502
+  index: 13
+  urn: urn:vl-trafik:stop:316219
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kungs Barkarö Kyrka
+  line: 502
+  index: 14
+  urn: urn:vl-trafik:stop:316217
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Valskogsvägen (K. Barkarö)
+  line: 502
+  index: 15
+  urn: urn:vl-trafik:stop:316215
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Barkarö skola
+  line: 502
+  index: 16
+  urn: urn:vl-trafik:stop:316213
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Utmarken
+  line: 502
+  index: 17
+  urn: urn:vl-trafik:stop:316211
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norra Kungsladugård
+  line: 502
+  index: 18
+  urn: urn:vl-trafik:stop:316209
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Borgvik
+  line: 502
+  index: 19
+  urn: urn:vl-trafik:stop:316207
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hamngatan
+  line: 502
+  index: 20
+  urn: urn:vl-trafik:stop:067028
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kungsör järnvägsstation
+  line: 502
+  index: 21
+  urn: urn:vl-trafik:stop:067027
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Liljevägen
+  line: 502
+  index: 22
+  urn: urn:vl-trafik:stop:316337
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skillinge
+  line: 502
+  index: 23
+  urn: urn:vl-trafik:stop:316339
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Malmbergavägen
+  line: 502
+  index: 24
+  urn: urn:vl-trafik:stop:316341
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ekebyholm
+  line: 502
+  index: 25
+  urn: urn:vl-trafik:stop:316343
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Väster Säby
+  line: 502
+  index: 26
+  urn: urn:vl-trafik:stop:316345
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Östra Säby
+  line: 502
+  index: 27
+  urn: urn:vl-trafik:stop:316347
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Folkesta köpcentrum
+  line: 502
+  index: 28
+  urn: urn:vl-trafik:stop:200447
+  latitude: 0.0
+  longitude: 0.0
+
+- name: ReTuna
+  line: 502
+  index: 29
+  urn: urn:vl-trafik:stop:200290
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ridderhofsgatan
+  line: 502
+  index: 30
+  urn: urn:vl-trafik:stop:200288
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bobergsgatan
+  line: 502
+  index: 31
+  urn: urn:vl-trafik:stop:200287
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stenmansgatan
+  line: 502
+  index: 32
+  urn: urn:vl-trafik:stop:200271
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rinmansparken
+  line: 502
+  index: 33
+  urn: urn:vl-trafik:stop:200270
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Eskilstuna Resecentrum
+  line: 502
+  index: 34
+  urn: urn:vl-trafik:stop:200162
+  latitude: 0.0
+  longitude: 0.0

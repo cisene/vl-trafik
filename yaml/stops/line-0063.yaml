@@ -1,0 +1,407 @@
+stops:
+
+- name: Kungsängsgymnasiet
+  line: 63
+  index: 0
+  urn: urn:vl-trafik:stop:063012
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörskogsleden
+  line: 63
+  index: 1
+  urn: urn:vl-trafik:stop:063093
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stockholmsvägen
+  line: 63
+  index: 2
+  urn: urn:vl-trafik:stop:063094
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Väsbygatan
+  line: 63
+  index: 3
+  urn: urn:vl-trafik:stop:063061
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sala Resecentrum
+  line: 63
+  index: 4
+  urn: urn:vl-trafik:stop:063999
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fiskartorget
+  line: 63
+  index: 5
+  urn: urn:vl-trafik:stop:063002
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ekebygatan
+  line: 63
+  index: 6
+  urn: urn:vl-trafik:stop:063037
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lärkbacken
+  line: 63
+  index: 7
+  urn: urn:vl-trafik:stop:063209
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Måns-olsvägen
+  line: 63
+  index: 8
+  urn: urn:vl-trafik:stop:063198
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ljunggatan, Skuggan
+  line: 63
+  index: 9
+  urn: urn:vl-trafik:stop:063195
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Banelund
+  line: 63
+  index: 10
+  urn: urn:vl-trafik:stop:063225
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sjöbo
+  line: 63
+  index: 11
+  urn: urn:vl-trafik:stop:063226
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hyttskogsvägen
+  line: 63
+  index: 12
+  urn: urn:vl-trafik:stop:063227
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lennartkärr
+  line: 63
+  index: 13
+  urn: urn:vl-trafik:stop:063259
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stentorpet
+  line: 63
+  index: 14
+  urn: urn:vl-trafik:stop:063228
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Silvköparen
+  line: 63
+  index: 15
+  urn: urn:vl-trafik:stop:063229
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ulvsbo vsk
+  line: 63
+  index: 16
+  urn: urn:vl-trafik:stop:063231
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Paradiset
+  line: 63
+  index: 17
+  urn: urn:vl-trafik:stop:063365
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Broddbo bygdegård
+  line: 63
+  index: 18
+  urn: urn:vl-trafik:stop:063232
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Broddbo
+  line: 63
+  index: 19
+  urn: urn:vl-trafik:stop:063029
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Broddbo affären
+  line: 63
+  index: 20
+  urn: urn:vl-trafik:stop:063233
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skatslätten
+  line: 63
+  index: 21
+  urn: urn:vl-trafik:stop:063234
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Klövsjö Gård
+  line: 63
+  index: 22
+  urn: urn:vl-trafik:stop:063325
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Klövsjön
+  line: 63
+  index: 23
+  urn: urn:vl-trafik:stop:063236
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sjövallsmossen
+  line: 63
+  index: 24
+  urn: urn:vl-trafik:stop:063241
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hebo
+  line: 63
+  index: 25
+  urn: urn:vl-trafik:stop:063237
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerbo vsk
+  line: 63
+  index: 26
+  urn: urn:vl-trafik:stop:063238
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hede
+  line: 63
+  index: 27
+  urn: urn:vl-trafik:stop:063239
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hede bastu
+  line: 63
+  index: 28
+  urn: urn:vl-trafik:stop:063240
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västervads vsk
+  line: 63
+  index: 29
+  urn: urn:vl-trafik:stop:063242
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norrvad
+  line: 63
+  index: 30
+  urn: urn:vl-trafik:stop:063243
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Östervad
+  line: 63
+  index: 31
+  urn: urn:vl-trafik:stop:063244
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hasselbacken
+  line: 63
+  index: 32
+  urn: urn:vl-trafik:stop:063245
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Forneby såg
+  line: 63
+  index: 33
+  urn: urn:vl-trafik:stop:063246
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Forneby gata
+  line: 63
+  index: 34
+  urn: urn:vl-trafik:stop:063247
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hillersbo vsk
+  line: 63
+  index: 35
+  urn: urn:vl-trafik:stop:063248
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kapellet
+  line: 63
+  index: 36
+  urn: urn:vl-trafik:stop:063249
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Möklinta södra
+  line: 63
+  index: 37
+  urn: urn:vl-trafik:stop:063250
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Möklinta
+  line: 63
+  index: 38
+  urn: urn:vl-trafik:stop:063030
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Möklinta skola
+  line: 63
+  index: 39
+  urn: urn:vl-trafik:stop:063258
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hedåsen
+  line: 63
+  index: 40
+  urn: urn:vl-trafik:stop:063252
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skräddarbo
+  line: 63
+  index: 41
+  urn: urn:vl-trafik:stop:063253
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skräddarbo N
+  line: 63
+  index: 42
+  urn: urn:vl-trafik:stop:063356
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ängsta
+  line: 63
+  index: 43
+  urn: urn:vl-trafik:stop:063044
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gammelby
+  line: 63
+  index: 44
+  urn: urn:vl-trafik:stop:063257
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gåddarbo
+  line: 63
+  index: 45
+  urn: urn:vl-trafik:stop:063256
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Alderbäck vsk
+  line: 63
+  index: 46
+  urn: urn:vl-trafik:stop:063316
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vivastbo
+  line: 63
+  index: 47
+  urn: urn:vl-trafik:stop:063043
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Myran
+  line: 63
+  index: 48
+  urn: urn:vl-trafik:stop:063323
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bännbäck
+  line: 63
+  index: 49
+  urn: urn:vl-trafik:stop:063042
+  latitude: 0.0
+  longitude: 0.0
+
+- name: V Bännbäck
+  line: 63
+  index: 50
+  urn: urn:vl-trafik:stop:063370
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Forsbo östra
+  line: 63
+  index: 51
+  urn: urn:vl-trafik:stop:063255
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Forsbo V
+  line: 63
+  index: 52
+  urn: urn:vl-trafik:stop:063357
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Trekanten
+  line: 63
+  index: 53
+  urn: urn:vl-trafik:stop:063254
+  latitude: 0.0
+  longitude: 0.0
+
+- name: N Heden
+  line: 63
+  index: 54
+  urn: urn:vl-trafik:stop:063260
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Änglunds
+  line: 63
+  index: 55
+  urn: urn:vl-trafik:stop:063261
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Örlinge
+  line: 63
+  index: 56
+  urn: urn:vl-trafik:stop:063262
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sonnbo
+  line: 63
+  index: 57
+  urn: urn:vl-trafik:stop:063263
+  latitude: 0.0
+  longitude: 0.0

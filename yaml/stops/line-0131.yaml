@@ -1,0 +1,50 @@
+stops:
+
+- name: Virsbo, Felingvägen
+  line: 131
+  index: 0
+  urn: urn:vl-trafik:stop:070070
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Herrgårdsvägen
+  line: 131
+  index: 1
+  urn: urn:vl-trafik:stop:070005
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Jägargatan
+  line: 131
+  index: 2
+  urn: urn:vl-trafik:stop:070004
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sjöviken
+  line: 131
+  index: 3
+  urn: urn:vl-trafik:stop:070003
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörbomsvägen
+  line: 131
+  index: 4
+  urn: urn:vl-trafik:stop:070002
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Wirsbo bruk
+  line: 131
+  index: 5
+  urn: urn:vl-trafik:stop:070000
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Virsbo Jvstn
+  line: 131
+  index: 6
+  urn: urn:vl-trafik:stop:070001
+  latitude: 0.0
+  longitude: 0.0

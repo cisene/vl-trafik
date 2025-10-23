@@ -1,0 +1,211 @@
+stops:
+
+- name: Gruffet
+  line: 32
+  index: 0
+  urn: urn:vl-trafik:stop:060551
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lagersberg
+  line: 32
+  index: 1
+  urn: urn:vl-trafik:stop:060550
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lilla Åsby
+  line: 32
+  index: 2
+  urn: urn:vl-trafik:stop:060549
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stora Åsby
+  line: 32
+  index: 3
+  urn: urn:vl-trafik:stop:060556
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hornsvik
+  line: 32
+  index: 4
+  urn: urn:vl-trafik:stop:060547
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Horn
+  line: 32
+  index: 5
+  urn: urn:vl-trafik:stop:060546
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Strömsholmsvägen
+  line: 32
+  index: 6
+  urn: urn:vl-trafik:stop:060544
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Jordmarken
+  line: 32
+  index: 7
+  urn: urn:vl-trafik:stop:060545
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Borgåsund
+  line: 32
+  index: 8
+  urn: urn:vl-trafik:stop:065023
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rytternevägen
+  line: 32
+  index: 9
+  urn: urn:vl-trafik:stop:060543
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stora Ekeby
+  line: 32
+  index: 10
+  urn: urn:vl-trafik:stop:060557
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skogsholmen
+  line: 32
+  index: 11
+  urn: urn:vl-trafik:stop:060542
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tibble vsk
+  line: 32
+  index: 12
+  urn: urn:vl-trafik:stop:060541
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Svånö
+  line: 32
+  index: 13
+  urn: urn:vl-trafik:stop:060540
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rytterne k:a
+  line: 32
+  index: 14
+  urn: urn:vl-trafik:stop:060539
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fiholm
+  line: 32
+  index: 15
+  urn: urn:vl-trafik:stop:060538
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sylta
+  line: 32
+  index: 16
+  urn: urn:vl-trafik:stop:060537
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åkerby V
+  line: 32
+  index: 17
+  urn: urn:vl-trafik:stop:060146
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åkerby
+  line: 32
+  index: 18
+  urn: urn:vl-trafik:stop:060555
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vikhus
+  line: 32
+  index: 19
+  urn: urn:vl-trafik:stop:060536
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tidö vsk
+  line: 32
+  index: 20
+  urn: urn:vl-trafik:stop:060534
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lövsta Skattgården
+  line: 32
+  index: 21
+  urn: urn:vl-trafik:stop:060533
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lövsta Solhem
+  line: 32
+  index: 22
+  urn: urn:vl-trafik:stop:060532
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lövsta gård
+  line: 32
+  index: 23
+  urn: urn:vl-trafik:stop:060531
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norrlövsta
+  line: 32
+  index: 24
+  urn: urn:vl-trafik:stop:060530
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Askö vsk
+  line: 32
+  index: 25
+  urn: urn:vl-trafik:stop:060343
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Näsby vsk
+  line: 32
+  index: 26
+  urn: urn:vl-trafik:stop:060529
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Boda
+  line: 32
+  index: 27
+  urn: urn:vl-trafik:stop:060528
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Galttegen
+  line: 32
+  index: 28
+  urn: urn:vl-trafik:stop:060527
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Örtagården
+  line: 32
+  index: 29
+  urn: urn:vl-trafik:stop:060548
+  latitude: 0.0
+  longitude: 0.0

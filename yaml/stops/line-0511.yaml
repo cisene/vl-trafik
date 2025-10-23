@@ -1,0 +1,43 @@
+stops:
+
+- name: Västerås Central
+  line: 511
+  index: 0
+  urn: urn:vl-trafik:stop:360000
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västgötegatan
+  line: 511
+  index: 1
+  urn: urn:vl-trafik:stop:060240
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Biskopsgatan
+  line: 511
+  index: 2
+  urn: urn:vl-trafik:stop:060370
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västeråsvägen
+  line: 511
+  index: 3
+  urn: urn:vl-trafik:stop:065014
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hallstahammar, centrum
+  line: 511
+  index: 4
+  urn: urn:vl-trafik:stop:065007
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hallstahammar Jvstn
+  line: 511
+  index: 5
+  urn: urn:vl-trafik:stop:065008
+  latitude: 0.0
+  longitude: 0.0

@@ -1,0 +1,169 @@
+stops:
+
+- name: Lindgården
+  line: 83
+  index: 0
+  urn: urn:vl-trafik:stop:064086
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kyrkvägen
+  line: 83
+  index: 1
+  urn: urn:vl-trafik:stop:064087
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Södra Porten
+  line: 83
+  index: 2
+  urn: urn:vl-trafik:stop:064130
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Brinellskolan
+  line: 83
+  index: 3
+  urn: urn:vl-trafik:stop:069010
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Järntorget
+  line: 83
+  index: 4
+  urn: urn:vl-trafik:stop:069012
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gallerian
+  line: 83
+  index: 5
+  urn: urn:vl-trafik:stop:069011
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Risbroplan
+  line: 83
+  index: 6
+  urn: urn:vl-trafik:stop:064018
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västanfors Kyrka
+  line: 83
+  index: 7
+  urn: urn:vl-trafik:stop:064085
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Solliden
+  line: 83
+  index: 8
+  urn: urn:vl-trafik:stop:064083
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fagersta Central
+  line: 83
+  index: 9
+  urn: urn:vl-trafik:stop:069008
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Aspatorp
+  line: 83
+  index: 10
+  urn: urn:vl-trafik:stop:064100
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Mossbo
+  line: 83
+  index: 11
+  urn: urn:vl-trafik:stop:064101
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Övre Gatgården
+  line: 83
+  index: 12
+  urn: urn:vl-trafik:stop:064102
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Blinkbovägen
+  line: 83
+  index: 13
+  urn: urn:vl-trafik:stop:064103
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åvestbo
+  line: 83
+  index: 14
+  urn: urn:vl-trafik:stop:064104
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Oppgårdsvägen
+  line: 83
+  index: 15
+  urn: urn:vl-trafik:stop:064124
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Middagsberget
+  line: 83
+  index: 16
+  urn: urn:vl-trafik:stop:064122
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sågverket
+  line: 83
+  index: 17
+  urn: urn:vl-trafik:stop:064123
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Smittsbo
+  line: 83
+  index: 18
+  urn: urn:vl-trafik:stop:064125
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Flyten
+  line: 83
+  index: 19
+  urn: urn:vl-trafik:stop:064050
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hjortbo
+  line: 83
+  index: 20
+  urn: urn:vl-trafik:stop:064049
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tägtbyvägen
+  line: 83
+  index: 21
+  urn: urn:vl-trafik:stop:064126
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Barktorp
+  line: 83
+  index: 22
+  urn: urn:vl-trafik:stop:064048
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bastmora
+  line: 83
+  index: 23
+  urn: urn:vl-trafik:stop:064047
+  latitude: 0.0
+  longitude: 0.0

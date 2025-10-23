@@ -1,0 +1,197 @@
+stops:
+
+- name: Ängshagen
+  line: 401
+  index: 0
+  urn: urn:vl-trafik:stop:063013
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Marsgatan
+  line: 401
+  index: 1
+  urn: urn:vl-trafik:stop:063216
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vintergatan
+  line: 401
+  index: 2
+  urn: urn:vl-trafik:stop:063215
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Mariebergsgatan
+  line: 401
+  index: 3
+  urn: urn:vl-trafik:stop:063224
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Turbo
+  line: 401
+  index: 4
+  urn: urn:vl-trafik:stop:063214
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bryggeriet
+  line: 401
+  index: 5
+  urn: urn:vl-trafik:stop:063213
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gruvvägen
+  line: 401
+  index: 6
+  urn: urn:vl-trafik:stop:063223
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gymnasiegatan
+  line: 401
+  index: 7
+  urn: urn:vl-trafik:stop:063362
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Jakobsbergsgården
+  line: 401
+  index: 8
+  urn: urn:vl-trafik:stop:063011
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Jakobsberg
+  line: 401
+  index: 9
+  urn: urn:vl-trafik:stop:063212
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Jakobsbergsgatan
+  line: 401
+  index: 10
+  urn: urn:vl-trafik:stop:063211
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fredstorget
+  line: 401
+  index: 11
+  urn: urn:vl-trafik:stop:063210
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Östra Tulegatan
+  line: 401
+  index: 12
+  urn: urn:vl-trafik:stop:063349
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fabriksgatan
+  line: 401
+  index: 13
+  urn: urn:vl-trafik:stop:063062
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fridhemsgatan
+  line: 401
+  index: 14
+  urn: urn:vl-trafik:stop:063350
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Långgatan
+  line: 401
+  index: 15
+  urn: urn:vl-trafik:stop:063351
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kungsgatan
+  line: 401
+  index: 16
+  urn: urn:vl-trafik:stop:063060
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fiskartorget
+  line: 401
+  index: 17
+  urn: urn:vl-trafik:stop:063002
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sala Resecentrum
+  line: 401
+  index: 18
+  urn: urn:vl-trafik:stop:063999
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vårdcentralen
+  line: 401
+  index: 19
+  urn: urn:vl-trafik:stop:063222
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Karpgatan
+  line: 401
+  index: 20
+  urn: urn:vl-trafik:stop:063191
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Silvermyntgatan
+  line: 401
+  index: 21
+  urn: urn:vl-trafik:stop:063192
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åkraskolan
+  line: 401
+  index: 22
+  urn: urn:vl-trafik:stop:063004
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Berggatan
+  line: 401
+  index: 23
+  urn: urn:vl-trafik:stop:063057
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lärkbacken
+  line: 401
+  index: 24
+  urn: urn:vl-trafik:stop:063209
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Måns-olsvägen
+  line: 401
+  index: 25
+  urn: urn:vl-trafik:stop:063198
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rosengatan
+  line: 401
+  index: 26
+  urn: urn:vl-trafik:stop:063196
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skuggan
+  line: 401
+  index: 27
+  urn: urn:vl-trafik:stop:063006
+  latitude: 0.0
+  longitude: 0.0

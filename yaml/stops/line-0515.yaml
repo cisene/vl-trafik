@@ -1,0 +1,323 @@
+stops:
+
+- name: Västerås Central
+  line: 515
+  index: 0
+  urn: urn:vl-trafik:stop:360000
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västgötegatan
+  line: 515
+  index: 1
+  urn: urn:vl-trafik:stop:060240
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Oxbacken
+  line: 515
+  index: 2
+  urn: urn:vl-trafik:stop:360008
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tomtebovägen
+  line: 515
+  index: 3
+  urn: urn:vl-trafik:stop:360009
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sjöhagen
+  line: 515
+  index: 4
+  urn: urn:vl-trafik:stop:360010
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sigfrid Edströms gata
+  line: 515
+  index: 5
+  urn: urn:vl-trafik:stop:060044
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hammarbyrampen
+  line: 515
+  index: 6
+  urn: urn:vl-trafik:stop:060033
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bessemergatan
+  line: 515
+  index: 7
+  urn: urn:vl-trafik:stop:060028
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Järnbruksgatan
+  line: 515
+  index: 8
+  urn: urn:vl-trafik:stop:060040
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stomnätsgatan
+  line: 515
+  index: 9
+  urn: urn:vl-trafik:stop:060045
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Långängskrogen
+  line: 515
+  index: 10
+  urn: urn:vl-trafik:stop:060046
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ytterhällavägen
+  line: 515
+  index: 11
+  urn: urn:vl-trafik:stop:060047
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Råbyvägen
+  line: 515
+  index: 12
+  urn: urn:vl-trafik:stop:060048
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Dingtuna kvarn
+  line: 515
+  index: 13
+  urn: urn:vl-trafik:stop:060049
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Dingtuna
+  line: 515
+  index: 14
+  urn: urn:vl-trafik:stop:060588
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Östjädravägen
+  line: 515
+  index: 15
+  urn: urn:vl-trafik:stop:060052
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västjädravägen
+  line: 515
+  index: 16
+  urn: urn:vl-trafik:stop:060053
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vendle
+  line: 515
+  index: 17
+  urn: urn:vl-trafik:stop:060054
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Törunda
+  line: 515
+  index: 18
+  urn: urn:vl-trafik:stop:060056
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Väster Törunda
+  line: 515
+  index: 19
+  urn: urn:vl-trafik:stop:060601
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Säby
+  line: 515
+  index: 20
+  urn: urn:vl-trafik:stop:060058
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Brunna
+  line: 515
+  index: 21
+  urn: urn:vl-trafik:stop:060059
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fyrbacken
+  line: 515
+  index: 22
+  urn: urn:vl-trafik:stop:060060
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Mölntorpsvägen
+  line: 515
+  index: 23
+  urn: urn:vl-trafik:stop:060061
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Mellangatan
+  line: 515
+  index: 24
+  urn: urn:vl-trafik:stop:065000
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kolbäck Jvstn
+  line: 515
+  index: 25
+  urn: urn:vl-trafik:stop:316150
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kyrkvägen
+  line: 515
+  index: 26
+  urn: urn:vl-trafik:stop:065001
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vänstavägen
+  line: 515
+  index: 27
+  urn: urn:vl-trafik:stop:065002
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Viby
+  line: 515
+  index: 28
+  urn: urn:vl-trafik:stop:065004
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hässelby vsk
+  line: 515
+  index: 29
+  urn: urn:vl-trafik:stop:065005
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Munktorps skola
+  line: 515
+  index: 30
+  urn: urn:vl-trafik:stop:061000
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Munktorp
+  line: 515
+  index: 31
+  urn: urn:vl-trafik:stop:061001
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bergsbyvägen
+  line: 515
+  index: 32
+  urn: urn:vl-trafik:stop:061002
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nalbesta vsk
+  line: 515
+  index: 33
+  urn: urn:vl-trafik:stop:061003
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Björke N
+  line: 515
+  index: 34
+  urn: urn:vl-trafik:stop:061004
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Björke S
+  line: 515
+  index: 35
+  urn: urn:vl-trafik:stop:061005
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörby Viadukt
+  line: 515
+  index: 36
+  urn: urn:vl-trafik:stop:061006
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Väster Sörby
+  line: 515
+  index: 37
+  urn: urn:vl-trafik:stop:061007
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norsavägen
+  line: 515
+  index: 38
+  urn: urn:vl-trafik:stop:061008
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Erikslundsvägen
+  line: 515
+  index: 39
+  urn: urn:vl-trafik:stop:061009
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Mackstavägen
+  line: 515
+  index: 40
+  urn: urn:vl-trafik:stop:061010
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Arbmans väg
+  line: 515
+  index: 41
+  urn: urn:vl-trafik:stop:061011
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Idrottsplatsen
+  line: 515
+  index: 42
+  urn: urn:vl-trafik:stop:061012
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hökartorget
+  line: 515
+  index: 43
+  urn: urn:vl-trafik:stop:300207
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sjukhuset Köping
+  line: 515
+  index: 44
+  urn: urn:vl-trafik:stop:300205
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Köping Jvstn
+  line: 515
+  index: 45
+  urn: urn:vl-trafik:stop:300200
+  latitude: 0.0
+  longitude: 0.0

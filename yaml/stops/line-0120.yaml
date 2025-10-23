@@ -1,0 +1,274 @@
+stops:
+
+- name: Äppelparken
+  line: 120
+  index: 0
+  urn: urn:vl-trafik:stop:065006
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västeråsvägen
+  line: 120
+  index: 1
+  urn: urn:vl-trafik:stop:065014
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Aromas väg
+  line: 120
+  index: 2
+  urn: urn:vl-trafik:stop:065064
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hästhovsvägen
+  line: 120
+  index: 3
+  urn: urn:vl-trafik:stop:065063
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Flädervägen
+  line: 120
+  index: 4
+  urn: urn:vl-trafik:stop:065017
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Videvägen
+  line: 120
+  index: 5
+  urn: urn:vl-trafik:stop:065018
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bofinksvägen
+  line: 120
+  index: 6
+  urn: urn:vl-trafik:stop:065019
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hallstahammar, centrum
+  line: 120
+  index: 7
+  urn: urn:vl-trafik:stop:065007
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skolgatan
+  line: 120
+  index: 8
+  urn: urn:vl-trafik:stop:065020
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kommunhuset
+  line: 120
+  index: 9
+  urn: urn:vl-trafik:stop:065021
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Storgatan
+  line: 120
+  index: 10
+  urn: urn:vl-trafik:stop:065022
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hallstahammar Jvstn
+  line: 120
+  index: 11
+  urn: urn:vl-trafik:stop:065008
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Industrigatan
+  line: 120
+  index: 12
+  urn: urn:vl-trafik:stop:065027
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kanalvägen
+  line: 120
+  index: 13
+  urn: urn:vl-trafik:stop:065028
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Slängarbacken
+  line: 120
+  index: 14
+  urn: urn:vl-trafik:stop:065059
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åsby
+  line: 120
+  index: 15
+  urn: urn:vl-trafik:stop:065057
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Agnesdal
+  line: 120
+  index: 16
+  urn: urn:vl-trafik:stop:065056
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Näs, Ågatan
+  line: 120
+  index: 17
+  urn: urn:vl-trafik:stop:065037
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Frössvivägen
+  line: 120
+  index: 18
+  urn: urn:vl-trafik:stop:065040
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bergslagsvägen
+  line: 120
+  index: 19
+  urn: urn:vl-trafik:stop:065041
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lyckhemsvägen
+  line: 120
+  index: 20
+  urn: urn:vl-trafik:stop:065042
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörstafors
+  line: 120
+  index: 21
+  urn: urn:vl-trafik:stop:065026
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Yllesta
+  line: 120
+  index: 22
+  urn: urn:vl-trafik:stop:065043
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Forsta
+  line: 120
+  index: 23
+  urn: urn:vl-trafik:stop:065044
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Färggatan
+  line: 120
+  index: 24
+  urn: urn:vl-trafik:stop:065045
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bergsgatan
+  line: 120
+  index: 25
+  urn: urn:vl-trafik:stop:065046
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kolbäck Jvstn
+  line: 120
+  index: 26
+  urn: urn:vl-trafik:stop:316150
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kolbäcks kyrka
+  line: 120
+  index: 27
+  urn: urn:vl-trafik:stop:065034
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Olfsta
+  line: 120
+  index: 28
+  urn: urn:vl-trafik:stop:065048
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Mölntorpsvägen 252
+  line: 120
+  index: 29
+  urn: urn:vl-trafik:stop:065049
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kvarnhagstorp
+  line: 120
+  index: 30
+  urn: urn:vl-trafik:stop:065062
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sofielund
+  line: 120
+  index: 31
+  urn: urn:vl-trafik:stop:065024
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Clas Thotts väg
+  line: 120
+  index: 32
+  urn: urn:vl-trafik:stop:065060
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Herrskogen
+  line: 120
+  index: 33
+  urn: urn:vl-trafik:stop:065033
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Oskarsborgsvägen
+  line: 120
+  index: 34
+  urn: urn:vl-trafik:stop:065051
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Spruthusbacken
+  line: 120
+  index: 35
+  urn: urn:vl-trafik:stop:065052
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Strömsholm
+  line: 120
+  index: 36
+  urn: urn:vl-trafik:stop:065025
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Strömsvik
+  line: 120
+  index: 37
+  urn: urn:vl-trafik:stop:065053
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Borgåsund
+  line: 120
+  index: 38
+  urn: urn:vl-trafik:stop:065023
+  latitude: 0.0
+  longitude: 0.0

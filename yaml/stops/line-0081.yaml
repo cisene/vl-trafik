@@ -1,0 +1,148 @@
+stops:
+
+- name: Skinnskatteberg jvstn
+  line: 81
+  index: 0
+  urn: urn:vl-trafik:stop:061086
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Klockarberget
+  line: 81
+  index: 1
+  urn: urn:vl-trafik:stop:061085
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sotvretsvägen
+  line: 81
+  index: 2
+  urn: urn:vl-trafik:stop:061084
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kyrkan
+  line: 81
+  index: 3
+  urn: urn:vl-trafik:stop:069070
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kommunhuset
+  line: 81
+  index: 4
+  urn: urn:vl-trafik:stop:069071
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åvreten
+  line: 81
+  index: 5
+  urn: urn:vl-trafik:stop:069072
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Björnbo
+  line: 81
+  index: 6
+  urn: urn:vl-trafik:stop:069073
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Godkärra Södra
+  line: 81
+  index: 7
+  urn: urn:vl-trafik:stop:069074
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Godkärra Norra
+  line: 81
+  index: 8
+  urn: urn:vl-trafik:stop:069075
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kärrbo vsk
+  line: 81
+  index: 9
+  urn: urn:vl-trafik:stop:069076
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hultebo
+  line: 81
+  index: 10
+  urn: urn:vl-trafik:stop:069077
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Östra Byarna
+  line: 81
+  index: 11
+  urn: urn:vl-trafik:stop:069078
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bäckegruvans vsk
+  line: 81
+  index: 12
+  urn: urn:vl-trafik:stop:069080
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Källfallet
+  line: 81
+  index: 13
+  urn: urn:vl-trafik:stop:069081
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sågen
+  line: 81
+  index: 14
+  urn: urn:vl-trafik:stop:069082
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Folkets Hus
+  line: 81
+  index: 15
+  urn: urn:vl-trafik:stop:069083
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lienshyttan
+  line: 81
+  index: 16
+  urn: urn:vl-trafik:stop:069084
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bussgaraget
+  line: 81
+  index: 17
+  urn: urn:vl-trafik:stop:069085
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skolvägen
+  line: 81
+  index: 18
+  urn: urn:vl-trafik:stop:069086
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Centralvägen
+  line: 81
+  index: 19
+  urn: urn:vl-trafik:stop:069087
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Riddarhyttan IP
+  line: 81
+  index: 20
+  urn: urn:vl-trafik:stop:069088
+  latitude: 0.0
+  longitude: 0.0

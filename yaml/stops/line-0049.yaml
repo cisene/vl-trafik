@@ -1,0 +1,239 @@
+stops:
+
+- name: Kaplansgatan
+  line: 49
+  index: 0
+  urn: urn:vl-trafik:stop:316373
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hamngatan
+  line: 49
+  index: 1
+  urn: urn:vl-trafik:stop:067028
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Valskog centrum
+  line: 49
+  index: 2
+  urn: urn:vl-trafik:stop:316365
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Björskogskolan
+  line: 49
+  index: 3
+  urn: urn:vl-trafik:stop:067008
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Björskogs vsk
+  line: 49
+  index: 4
+  urn: urn:vl-trafik:stop:316363
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Viadukten
+  line: 49
+  index: 5
+  urn: urn:vl-trafik:stop:316361
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Borsingby
+  line: 49
+  index: 6
+  urn: urn:vl-trafik:stop:316359
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Östtuna
+  line: 49
+  index: 7
+  urn: urn:vl-trafik:stop:316357
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Högsta
+  line: 49
+  index: 8
+  urn: urn:vl-trafik:stop:312160
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Grönö
+  line: 49
+  index: 9
+  urn: urn:vl-trafik:stop:316333
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åsta Gata
+  line: 49
+  index: 10
+  urn: urn:vl-trafik:stop:316331
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åsta kurva
+  line: 49
+  index: 11
+  urn: urn:vl-trafik:stop:316229
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åsta Smedja
+  line: 49
+  index: 12
+  urn: urn:vl-trafik:stop:316227
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ljungs väg
+  line: 49
+  index: 13
+  urn: urn:vl-trafik:stop:316225
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Raknö
+  line: 49
+  index: 14
+  urn: urn:vl-trafik:stop:316223
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hällegård
+  line: 49
+  index: 15
+  urn: urn:vl-trafik:stop:316221
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Granö
+  line: 49
+  index: 16
+  urn: urn:vl-trafik:stop:316219
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kungs Barkarö Kyrka
+  line: 49
+  index: 17
+  urn: urn:vl-trafik:stop:316217
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Valskogsvägen (K. Barkarö)
+  line: 49
+  index: 18
+  urn: urn:vl-trafik:stop:316215
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Borgvik
+  line: 49
+  index: 19
+  urn: urn:vl-trafik:stop:316207
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norra Kungsladugård
+  line: 49
+  index: 20
+  urn: urn:vl-trafik:stop:316209
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Utmarken
+  line: 49
+  index: 21
+  urn: urn:vl-trafik:stop:316211
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Barkarö skola
+  line: 49
+  index: 22
+  urn: urn:vl-trafik:stop:316213
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Österbyvägen (K.Barkarö)
+  line: 49
+  index: 23
+  urn: urn:vl-trafik:stop:067029
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ekhyddan
+  line: 49
+  index: 24
+  urn: urn:vl-trafik:stop:067026
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Uknö
+  line: 49
+  index: 25
+  urn: urn:vl-trafik:stop:067007
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sjöholmen
+  line: 49
+  index: 26
+  urn: urn:vl-trafik:stop:067009
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ö Eknö
+  line: 49
+  index: 27
+  urn: urn:vl-trafik:stop:067010
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nåberga
+  line: 49
+  index: 28
+  urn: urn:vl-trafik:stop:067014
+  latitude: 0.0
+  longitude: 0.0
+
+- name: V Nåberga
+  line: 49
+  index: 29
+  urn: urn:vl-trafik:stop:067030
+  latitude: 0.0
+  longitude: 0.0
+
+- name: V Eknö
+  line: 49
+  index: 30
+  urn: urn:vl-trafik:stop:067011
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Råby
+  line: 49
+  index: 31
+  urn: urn:vl-trafik:stop:067015
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Segelsberga
+  line: 49
+  index: 32
+  urn: urn:vl-trafik:stop:067012
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Björskogs k:a
+  line: 49
+  index: 33
+  urn: urn:vl-trafik:stop:067013
+  latitude: 0.0
+  longitude: 0.0

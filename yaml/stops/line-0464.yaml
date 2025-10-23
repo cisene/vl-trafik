@@ -1,0 +1,106 @@
+stops:
+
+- name: Skogslund
+  line: 464
+  index: 0
+  urn: urn:vl-trafik:stop:063314
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rosshyttan ruin
+  line: 464
+  index: 1
+  urn: urn:vl-trafik:stop:063301
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rosshyttan östra
+  line: 464
+  index: 2
+  urn: urn:vl-trafik:stop:063302
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rosshyttan
+  line: 464
+  index: 3
+  urn: urn:vl-trafik:stop:063048
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Möklinta
+  line: 464
+  index: 4
+  urn: urn:vl-trafik:stop:063030
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hammarby
+  line: 464
+  index: 5
+  urn: urn:vl-trafik:stop:063297
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Visbäck
+  line: 464
+  index: 6
+  urn: urn:vl-trafik:stop:063298
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norrvad vsk
+  line: 464
+  index: 7
+  urn: urn:vl-trafik:stop:063299
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nässelbo
+  line: 464
+  index: 8
+  urn: urn:vl-trafik:stop:063300
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Berga
+  line: 464
+  index: 9
+  urn: urn:vl-trafik:stop:063047
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kärrvägen, Brobacke
+  line: 464
+  index: 10
+  urn: urn:vl-trafik:stop:063809
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Brobacke
+  line: 464
+  index: 11
+  urn: urn:vl-trafik:stop:063052
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hedåker
+  line: 464
+  index: 12
+  urn: urn:vl-trafik:stop:063278
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Mälby vsk
+  line: 464
+  index: 13
+  urn: urn:vl-trafik:stop:063277
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kilbo skola
+  line: 464
+  index: 14
+  urn: urn:vl-trafik:stop:063800
+  latitude: 0.0
+  longitude: 0.0

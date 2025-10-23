@@ -1,0 +1,232 @@
+stops:
+
+- name: Järntorget
+  line: 82
+  index: 0
+  urn: urn:vl-trafik:stop:069012
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gallerian
+  line: 82
+  index: 1
+  urn: urn:vl-trafik:stop:069011
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Brinellskolan
+  line: 82
+  index: 2
+  urn: urn:vl-trafik:stop:069010
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Mariaskolan
+  line: 82
+  index: 3
+  urn: urn:vl-trafik:stop:064024
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rosenlund
+  line: 82
+  index: 4
+  urn: urn:vl-trafik:stop:064032
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bergvägen
+  line: 82
+  index: 5
+  urn: urn:vl-trafik:stop:064026
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Knutsvägen
+  line: 82
+  index: 6
+  urn: urn:vl-trafik:stop:064076
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Södra Porten
+  line: 82
+  index: 7
+  urn: urn:vl-trafik:stop:064130
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Risbroplan
+  line: 82
+  index: 8
+  urn: urn:vl-trafik:stop:064018
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fagersta Central
+  line: 82
+  index: 9
+  urn: urn:vl-trafik:stop:069008
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hagavägen
+  line: 82
+  index: 10
+  urn: urn:vl-trafik:stop:064027
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sundbo
+  line: 82
+  index: 11
+  urn: urn:vl-trafik:stop:064028
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ombenning Norra
+  line: 82
+  index: 12
+  urn: urn:vl-trafik:stop:064029
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ombenning Södra
+  line: 82
+  index: 13
+  urn: urn:vl-trafik:stop:064030
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ennora
+  line: 82
+  index: 14
+  urn: urn:vl-trafik:stop:064031
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rosenlund
+  line: 82
+  index: 15
+  urn: urn:vl-trafik:stop:064023
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Björnhålet
+  line: 82
+  index: 16
+  urn: urn:vl-trafik:stop:064033
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Engelsbergs Bruk
+  line: 82
+  index: 17
+  urn: urn:vl-trafik:stop:064034
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sågholmen
+  line: 82
+  index: 18
+  urn: urn:vl-trafik:stop:064035
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ängelsbergs Jvstn
+  line: 82
+  index: 19
+  urn: urn:vl-trafik:stop:064036
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Furuborgsvägen
+  line: 82
+  index: 20
+  urn: urn:vl-trafik:stop:064037
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västervåla K:a
+  line: 82
+  index: 21
+  urn: urn:vl-trafik:stop:064038
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västervåla
+  line: 82
+  index: 22
+  urn: urn:vl-trafik:stop:064039
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörby
+  line: 82
+  index: 23
+  urn: urn:vl-trafik:stop:064040
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bondfallet
+  line: 82
+  index: 24
+  urn: urn:vl-trafik:stop:064041
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Halvarsviken
+  line: 82
+  index: 25
+  urn: urn:vl-trafik:stop:064042
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skommarbo
+  line: 82
+  index: 26
+  urn: urn:vl-trafik:stop:064043
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörbomsvägen
+  line: 82
+  index: 27
+  urn: urn:vl-trafik:stop:070002
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sjöviken
+  line: 82
+  index: 28
+  urn: urn:vl-trafik:stop:070003
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Jägargatan
+  line: 82
+  index: 29
+  urn: urn:vl-trafik:stop:070004
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Herrgårdsvägen
+  line: 82
+  index: 30
+  urn: urn:vl-trafik:stop:070005
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Virsbo, Krogen
+  line: 82
+  index: 31
+  urn: urn:vl-trafik:stop:070006
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Virsbo, Felingvägen
+  line: 82
+  index: 32
+  urn: urn:vl-trafik:stop:070070
+  latitude: 0.0
+  longitude: 0.0

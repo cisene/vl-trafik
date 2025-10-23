@@ -1,0 +1,106 @@
+stops:
+
+- name: Västerås Central
+  line: 111
+  index: 0
+  urn: urn:vl-trafik:stop:360000
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fiskartorget
+  line: 111
+  index: 1
+  urn: urn:vl-trafik:stop:060599
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Oxbackens C
+  line: 111
+  index: 2
+  urn: urn:vl-trafik:stop:060268
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hammarbyrampen
+  line: 111
+  index: 3
+  urn: urn:vl-trafik:stop:060033
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Järnbruksgatan
+  line: 111
+  index: 4
+  urn: urn:vl-trafik:stop:060040
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gilltuna
+  line: 111
+  index: 5
+  urn: urn:vl-trafik:stop:060402
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vångsta vsk
+  line: 111
+  index: 6
+  urn: urn:vl-trafik:stop:060403
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Folkesta
+  line: 111
+  index: 7
+  urn: urn:vl-trafik:stop:060404
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vallby vsk
+  line: 111
+  index: 8
+  urn: urn:vl-trafik:stop:060405
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ellberga
+  line: 111
+  index: 9
+  urn: urn:vl-trafik:stop:060406
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bysingsberg
+  line: 111
+  index: 10
+  urn: urn:vl-trafik:stop:060407
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fromtorp
+  line: 111
+  index: 11
+  urn: urn:vl-trafik:stop:060408
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gocksta
+  line: 111
+  index: 12
+  urn: urn:vl-trafik:stop:060409
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Forkesta vsk
+  line: 111
+  index: 13
+  urn: urn:vl-trafik:stop:060410
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hamra vsk
+  line: 111
+  index: 14
+  urn: urn:vl-trafik:stop:060411
+  latitude: 0.0
+  longitude: 0.0

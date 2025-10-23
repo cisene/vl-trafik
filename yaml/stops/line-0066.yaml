@@ -1,0 +1,232 @@
+stops:
+
+- name: Halvars (Kärrbäck)
+  line: 66
+  index: 0
+  urn: urn:vl-trafik:stop:063333
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norrby Boda
+  line: 66
+  index: 1
+  urn: urn:vl-trafik:stop:063352
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Eljansbo
+  line: 66
+  index: 2
+  urn: urn:vl-trafik:stop:063360
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Johanneslund vsk (Sala)
+  line: 66
+  index: 3
+  urn: urn:vl-trafik:stop:063334
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Svepnäs
+  line: 66
+  index: 4
+  urn: urn:vl-trafik:stop:063361
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Modigsbacke
+  line: 66
+  index: 5
+  urn: urn:vl-trafik:stop:063353
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vallby Ryttargård
+  line: 66
+  index: 6
+  urn: urn:vl-trafik:stop:063371
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norrberg (Sala)
+  line: 66
+  index: 7
+  urn: urn:vl-trafik:stop:063266
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sala Resecentrum
+  line: 66
+  index: 8
+  urn: urn:vl-trafik:stop:063999
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fiskartorget
+  line: 66
+  index: 9
+  urn: urn:vl-trafik:stop:063002
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ekebygatan
+  line: 66
+  index: 10
+  urn: urn:vl-trafik:stop:063037
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fredstorget
+  line: 66
+  index: 11
+  urn: urn:vl-trafik:stop:063210
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stockholmsvägen
+  line: 66
+  index: 12
+  urn: urn:vl-trafik:stop:063094
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörskogsleden
+  line: 66
+  index: 13
+  urn: urn:vl-trafik:stop:063093
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kungsängsgymnasiet
+  line: 66
+  index: 14
+  urn: urn:vl-trafik:stop:063012
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gymnasiegatan
+  line: 66
+  index: 15
+  urn: urn:vl-trafik:stop:063362
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vintergatan
+  line: 66
+  index: 16
+  urn: urn:vl-trafik:stop:063215
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Marsgatan
+  line: 66
+  index: 17
+  urn: urn:vl-trafik:stop:063216
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ängshagen
+  line: 66
+  index: 18
+  urn: urn:vl-trafik:stop:063013
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fabriksgatan
+  line: 66
+  index: 19
+  urn: urn:vl-trafik:stop:063062
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norrby Prästgård
+  line: 66
+  index: 20
+  urn: urn:vl-trafik:stop:063354
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörby (Varmsätra)
+  line: 66
+  index: 21
+  urn: urn:vl-trafik:stop:063358
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Öja (Sala)
+  line: 66
+  index: 22
+  urn: urn:vl-trafik:stop:063335
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norra Kumlaby (Varmsätra)
+  line: 66
+  index: 23
+  urn: urn:vl-trafik:stop:063336
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Södra Kumlaby (Varmsätra)
+  line: 66
+  index: 24
+  urn: urn:vl-trafik:stop:063337
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norrbäck vsk (Varmsätra)
+  line: 66
+  index: 25
+  urn: urn:vl-trafik:stop:063338
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norrbäck skolhållplats
+  line: 66
+  index: 26
+  urn: urn:vl-trafik:stop:063339
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörbäck V (Varmsätra)
+  line: 66
+  index: 27
+  urn: urn:vl-trafik:stop:063340
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörbäck Ö (Varmsätra)
+  line: 66
+  index: 28
+  urn: urn:vl-trafik:stop:063341
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gamsebo N (Varmsätra)
+  line: 66
+  index: 29
+  urn: urn:vl-trafik:stop:063342
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gamsebo S (Varmsätra)
+  line: 66
+  index: 30
+  urn: urn:vl-trafik:stop:063343
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Varmsätra N
+  line: 66
+  index: 31
+  urn: urn:vl-trafik:stop:063344
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Varmsätra skola
+  line: 66
+  index: 32
+  urn: urn:vl-trafik:stop:063327
+  latitude: 0.0
+  longitude: 0.0

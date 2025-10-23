@@ -1,0 +1,92 @@
+stops:
+
+- name: Östanbro
+  line: 36
+  index: 0
+  urn: urn:vl-trafik:stop:060357
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lugnet
+  line: 36
+  index: 1
+  urn: urn:vl-trafik:stop:060355
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Karleby
+  line: 36
+  index: 2
+  urn: urn:vl-trafik:stop:060354
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ändesta vsk
+  line: 36
+  index: 3
+  urn: urn:vl-trafik:stop:060353
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Darsta
+  line: 36
+  index: 4
+  urn: urn:vl-trafik:stop:060352
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Väsby
+  line: 36
+  index: 5
+  urn: urn:vl-trafik:stop:060351
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kärrbo vsk
+  line: 36
+  index: 6
+  urn: urn:vl-trafik:stop:060350
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Panko Ö
+  line: 36
+  index: 7
+  urn: urn:vl-trafik:stop:060349
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Panko V
+  line: 36
+  index: 8
+  urn: urn:vl-trafik:stop:060348
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hagalund
+  line: 36
+  index: 9
+  urn: urn:vl-trafik:stop:060347
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Solhem
+  line: 36
+  index: 10
+  urn: urn:vl-trafik:stop:060346
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Irsta k:a
+  line: 36
+  index: 11
+  urn: urn:vl-trafik:stop:060345
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Irsta
+  line: 36
+  index: 12
+  urn: urn:vl-trafik:stop:060598
+  latitude: 0.0
+  longitude: 0.0

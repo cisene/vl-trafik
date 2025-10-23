@@ -1,0 +1,344 @@
+stops:
+
+- name: Tillberga
+  line: 21
+  index: 0
+  urn: urn:vl-trafik:stop:060608
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tillberga Centrum
+  line: 21
+  index: 1
+  urn: urn:vl-trafik:stop:060326
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Konduktörsvägen
+  line: 21
+  index: 2
+  urn: urn:vl-trafik:stop:060609
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Alvesta
+  line: 21
+  index: 3
+  urn: urn:vl-trafik:stop:060611
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Isblocksvägen
+  line: 21
+  index: 4
+  urn: urn:vl-trafik:stop:060503
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rundhällsvägen
+  line: 21
+  index: 5
+  urn: urn:vl-trafik:stop:060320
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Alvestavägen
+  line: 21
+  index: 6
+  urn: urn:vl-trafik:stop:060314
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Badelundavägen
+  line: 21
+  index: 7
+  urn: urn:vl-trafik:stop:060313
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Almvägen
+  line: 21
+  index: 8
+  urn: urn:vl-trafik:stop:060312
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Renvägen
+  line: 21
+  index: 9
+  urn: urn:vl-trafik:stop:060311
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lundamotet
+  line: 21
+  index: 10
+  urn: urn:vl-trafik:stop:060500
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nordanbymotet
+  line: 21
+  index: 11
+  urn: urn:vl-trafik:stop:360117
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gideonsbergsmotet
+  line: 21
+  index: 12
+  urn: urn:vl-trafik:stop:060253
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bergslagsvägen
+  line: 21
+  index: 13
+  urn: urn:vl-trafik:stop:060516
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gesällgatan
+  line: 21
+  index: 14
+  urn: urn:vl-trafik:stop:360112
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kristiansborgsbadet
+  line: 21
+  index: 15
+  urn: urn:vl-trafik:stop:360111
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kopparlunden
+  line: 21
+  index: 16
+  urn: urn:vl-trafik:stop:360006
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerås Central
+  line: 21
+  index: 17
+  urn: urn:vl-trafik:stop:360000
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västgötegatan
+  line: 21
+  index: 18
+  urn: urn:vl-trafik:stop:060240
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Biskopsgatan
+  line: 21
+  index: 19
+  urn: urn:vl-trafik:stop:060370
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Blåsbogatan
+  line: 21
+  index: 20
+  urn: urn:vl-trafik:stop:360188
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stora Gatan
+  line: 21
+  index: 21
+  urn: urn:vl-trafik:stop:360001
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Smedjegatan
+  line: 21
+  index: 22
+  urn: urn:vl-trafik:stop:360003
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rudbecksgatan
+  line: 21
+  index: 23
+  urn: urn:vl-trafik:stop:360004
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Universitetet
+  line: 21
+  index: 24
+  urn: urn:vl-trafik:stop:360034
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Arosvallen
+  line: 21
+  index: 25
+  urn: urn:vl-trafik:stop:360035
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sångargatan
+  line: 21
+  index: 26
+  urn: urn:vl-trafik:stop:360036
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rocklunda S
+  line: 21
+  index: 27
+  urn: urn:vl-trafik:stop:360037
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rocklunda N
+  line: 21
+  index: 28
+  urn: urn:vl-trafik:stop:360038
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Apalby
+  line: 21
+  index: 29
+  urn: urn:vl-trafik:stop:360039
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åshagen
+  line: 21
+  index: 30
+  urn: urn:vl-trafik:stop:360129
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Billsta
+  line: 21
+  index: 31
+  urn: urn:vl-trafik:stop:360130
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rönnby vsk
+  line: 21
+  index: 32
+  urn: urn:vl-trafik:stop:060479
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åby
+  line: 21
+  index: 33
+  urn: urn:vl-trafik:stop:060480
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lista
+  line: 21
+  index: 34
+  urn: urn:vl-trafik:stop:060481
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åkesta
+  line: 21
+  index: 35
+  urn: urn:vl-trafik:stop:060482
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Forsby
+  line: 21
+  index: 36
+  urn: urn:vl-trafik:stop:060483
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gillberga
+  line: 21
+  index: 37
+  urn: urn:vl-trafik:stop:060484
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Södra Nackby
+  line: 21
+  index: 38
+  urn: urn:vl-trafik:stop:060485
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norra Nackby
+  line: 21
+  index: 39
+  urn: urn:vl-trafik:stop:060486
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Södra Läjde
+  line: 21
+  index: 40
+  urn: urn:vl-trafik:stop:060487
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norra Läjde
+  line: 21
+  index: 41
+  urn: urn:vl-trafik:stop:060617
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skultuna k:a
+  line: 21
+  index: 42
+  urn: urn:vl-trafik:stop:060489
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Berga vsk
+  line: 21
+  index: 43
+  urn: urn:vl-trafik:stop:060490
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Katthedsvägen
+  line: 21
+  index: 44
+  urn: urn:vl-trafik:stop:060491
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lärkvägen
+  line: 21
+  index: 45
+  urn: urn:vl-trafik:stop:060492
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skogsgårdsvägen
+  line: 21
+  index: 46
+  urn: urn:vl-trafik:stop:060493
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Östra Ringvägen
+  line: 21
+  index: 47
+  urn: urn:vl-trafik:stop:360007
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skultuna
+  line: 21
+  index: 48
+  urn: urn:vl-trafik:stop:060494
+  latitude: 0.0
+  longitude: 0.0

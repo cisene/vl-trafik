@@ -1,0 +1,330 @@
+stops:
+
+- name: Norra Haga
+  line: 14
+  index: 0
+  urn: urn:vl-trafik:stop:360169
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rekylgatan
+  line: 14
+  index: 1
+  urn: urn:vl-trafik:stop:360170
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skyttegatan
+  line: 14
+  index: 2
+  urn: urn:vl-trafik:stop:360168
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Furugatan
+  line: 14
+  index: 3
+  urn: urn:vl-trafik:stop:360167
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åkarhagsgatan
+  line: 14
+  index: 4
+  urn: urn:vl-trafik:stop:360102
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gunnilbogatan
+  line: 14
+  index: 5
+  urn: urn:vl-trafik:stop:360173
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lövstagatan
+  line: 14
+  index: 6
+  urn: urn:vl-trafik:stop:360174
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Malmabergsskolan
+  line: 14
+  index: 7
+  urn: urn:vl-trafik:stop:360175
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tråddragargatan
+  line: 14
+  index: 8
+  urn: urn:vl-trafik:stop:360176
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Adelsögatan
+  line: 14
+  index: 9
+  urn: urn:vl-trafik:stop:360027
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stentorpsgatan
+  line: 14
+  index: 10
+  urn: urn:vl-trafik:stop:360028
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sjukhuset Västerås
+  line: 14
+  index: 11
+  urn: urn:vl-trafik:stop:360179
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hemdalsvägen
+  line: 14
+  index: 12
+  urn: urn:vl-trafik:stop:360025
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Retortgatan
+  line: 14
+  index: 13
+  urn: urn:vl-trafik:stop:360024
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Pilgatan
+  line: 14
+  index: 14
+  urn: urn:vl-trafik:stop:360023
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Östra Ringvägen
+  line: 14
+  index: 15
+  urn: urn:vl-trafik:stop:360007
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerås Central
+  line: 14
+  index: 16
+  urn: urn:vl-trafik:stop:360000
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västgötegatan
+  line: 14
+  index: 17
+  urn: urn:vl-trafik:stop:060240
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stora Gatan
+  line: 14
+  index: 18
+  urn: urn:vl-trafik:stop:360001
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Källgatan
+  line: 14
+  index: 19
+  urn: urn:vl-trafik:stop:360002
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Oxbacken
+  line: 14
+  index: 20
+  urn: urn:vl-trafik:stop:360008
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tomtebovägen
+  line: 14
+  index: 21
+  urn: urn:vl-trafik:stop:360009
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Djuphamnsvägen
+  line: 14
+  index: 22
+  urn: urn:vl-trafik:stop:360153
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hammarbacksvägen
+  line: 14
+  index: 23
+  urn: urn:vl-trafik:stop:360154
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Karlavagnsgatan
+  line: 14
+  index: 24
+  urn: urn:vl-trafik:stop:360155
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stjärngatan
+  line: 14
+  index: 25
+  urn: urn:vl-trafik:stop:360156
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Narvavägen
+  line: 14
+  index: 26
+  urn: urn:vl-trafik:stop:360157
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vetterslund
+  line: 14
+  index: 27
+  urn: urn:vl-trafik:stop:360158
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stengatan
+  line: 14
+  index: 28
+  urn: urn:vl-trafik:stop:360159
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ringduvegatan
+  line: 14
+  index: 29
+  urn: urn:vl-trafik:stop:360074
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Råby C
+  line: 14
+  index: 30
+  urn: urn:vl-trafik:stop:360075
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fredriksberg
+  line: 14
+  index: 31
+  urn: urn:vl-trafik:stop:360076
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Axel Oxenstiernas Gata
+  line: 14
+  index: 32
+  urn: urn:vl-trafik:stop:360160
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Puddelugnsgatan
+  line: 14
+  index: 33
+  urn: urn:vl-trafik:stop:360161
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Välljärnsgatan
+  line: 14
+  index: 34
+  urn: urn:vl-trafik:stop:360016
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vårdcentralen
+  line: 14
+  index: 35
+  urn: urn:vl-trafik:stop:360017
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bäckby C
+  line: 14
+  index: 36
+  urn: urn:vl-trafik:stop:360018
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Smältverksgatan
+  line: 14
+  index: 37
+  urn: urn:vl-trafik:stop:360019
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rösegårdsgatan
+  line: 14
+  index: 38
+  urn: urn:vl-trafik:stop:360020
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Plåtverksgatan
+  line: 14
+  index: 39
+  urn: urn:vl-trafik:stop:360162
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bandverksgatan
+  line: 14
+  index: 40
+  urn: urn:vl-trafik:stop:360163
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bäckby N
+  line: 14
+  index: 41
+  urn: urn:vl-trafik:stop:360187
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Erikslund V
+  line: 14
+  index: 42
+  urn: urn:vl-trafik:stop:360084
+  latitude: 0.0
+  longitude: 0.0
+
+- name: IKEA
+  line: 14
+  index: 43
+  urn: urn:vl-trafik:stop:360083
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hallsta Gårdsgata
+  line: 14
+  index: 44
+  urn: urn:vl-trafik:stop:360082
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Löpkranegatan
+  line: 14
+  index: 45
+  urn: urn:vl-trafik:stop:360081
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Eriksborg, Huvudingången
+  line: 14
+  index: 46
+  urn: urn:vl-trafik:stop:360165
+  latitude: 0.0
+  longitude: 0.0

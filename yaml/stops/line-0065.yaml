@@ -1,0 +1,239 @@
+stops:
+
+- name: Sala Resecentrum
+  line: 65
+  index: 0
+  urn: urn:vl-trafik:stop:063999
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fiskartorget
+  line: 65
+  index: 1
+  urn: urn:vl-trafik:stop:063002
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kungsgatan
+  line: 65
+  index: 2
+  urn: urn:vl-trafik:stop:063060
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Väsbygatan
+  line: 65
+  index: 3
+  urn: urn:vl-trafik:stop:063061
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stockholmsvägen
+  line: 65
+  index: 4
+  urn: urn:vl-trafik:stop:063094
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörskogsleden
+  line: 65
+  index: 5
+  urn: urn:vl-trafik:stop:063093
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sör Kivsta
+  line: 65
+  index: 6
+  urn: urn:vl-trafik:stop:063091
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hättskär
+  line: 65
+  index: 7
+  urn: urn:vl-trafik:stop:063090
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gullagrind norra
+  line: 65
+  index: 8
+  urn: urn:vl-trafik:stop:063089
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gullagrind södra
+  line: 65
+  index: 9
+  urn: urn:vl-trafik:stop:063088
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ynglinge
+  line: 65
+  index: 10
+  urn: urn:vl-trafik:stop:063087
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hogla
+  line: 65
+  index: 11
+  urn: urn:vl-trafik:stop:063086
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Liljansberg, Husta
+  line: 65
+  index: 12
+  urn: urn:vl-trafik:stop:063085
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Folkhögskolevägen
+  line: 65
+  index: 13
+  urn: urn:vl-trafik:stop:063083
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kumla kyrkby
+  line: 65
+  index: 14
+  urn: urn:vl-trafik:stop:063032
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Parkvägen
+  line: 65
+  index: 15
+  urn: urn:vl-trafik:stop:063082
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Heden
+  line: 65
+  index: 16
+  urn: urn:vl-trafik:stop:063081
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hebovägen
+  line: 65
+  index: 17
+  urn: urn:vl-trafik:stop:063079
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ransta skola
+  line: 65
+  index: 18
+  urn: urn:vl-trafik:stop:063078
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Berghällsvägen
+  line: 65
+  index: 19
+  urn: urn:vl-trafik:stop:063077
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ransta jvstn
+  line: 65
+  index: 20
+  urn: urn:vl-trafik:stop:063033
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stationsvägen
+  line: 65
+  index: 21
+  urn: urn:vl-trafik:stop:063076
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerby
+  line: 65
+  index: 22
+  urn: urn:vl-trafik:stop:063034
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ransta snickeri
+  line: 65
+  index: 23
+  urn: urn:vl-trafik:stop:063075
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vad vsk
+  line: 65
+  index: 24
+  urn: urn:vl-trafik:stop:063320
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Limsta
+  line: 65
+  index: 25
+  urn: urn:vl-trafik:stop:063321
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lugnet
+  line: 65
+  index: 26
+  urn: urn:vl-trafik:stop:063074
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vad
+  line: 65
+  index: 27
+  urn: urn:vl-trafik:stop:063073
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vallrum
+  line: 65
+  index: 28
+  urn: urn:vl-trafik:stop:063035
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hallsta vsk
+  line: 65
+  index: 29
+  urn: urn:vl-trafik:stop:060375
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ekebygatan
+  line: 65
+  index: 30
+  urn: urn:vl-trafik:stop:063037
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fredstorget
+  line: 65
+  index: 31
+  urn: urn:vl-trafik:stop:063210
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kungsängsgymnasiet
+  line: 65
+  index: 32
+  urn: urn:vl-trafik:stop:063012
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tomta vsk
+  line: 65
+  index: 33
+  urn: urn:vl-trafik:stop:063036
+  latitude: 0.0
+  longitude: 0.0

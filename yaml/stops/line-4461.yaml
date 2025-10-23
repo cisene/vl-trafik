@@ -1,0 +1,93 @@
+stops:
+
+- name: Västerfärnebo skola
+  line: 4461
+  index: 0
+  urn: urn:vl-trafik:stop:063332
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vagnsbro
+  line: 4461
+  index: 1
+  urn: urn:vl-trafik:stop:063147
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ösby
+  line: 4461
+  index: 2
+  urn: urn:vl-trafik:stop:063270
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lundbacken
+  line: 4461
+  index: 3
+  urn: urn:vl-trafik:stop:063271
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kårbo
+  line: 4461
+  index: 4
+  urn: urn:vl-trafik:stop:063309
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Renbergs
+  line: 4461
+  index: 5
+  urn: urn:vl-trafik:stop:063272
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stenby
+  line: 4461
+  index: 6
+  urn: urn:vl-trafik:stop:063053
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Smedsbo
+  line: 4461
+  index: 7
+  urn: urn:vl-trafik:stop:063273
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hyttbacken
+  line: 4461
+  index: 8
+  urn: urn:vl-trafik:stop:063274
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerbykil bygdegård
+  line: 4461
+  index: 9
+  urn: urn:vl-trafik:stop:063275
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerbykil
+  line: 4461
+  index: 10
+  urn: urn:vl-trafik:stop:063051
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nergården
+  line: 4461
+  index: 11
+  urn: urn:vl-trafik:stop:063276
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kilbo skola
+  line: 4461
+  index: 12
+  urn: urn:vl-trafik:stop:063800
+  latitude: 0.0
+  longitude: 0.0
+

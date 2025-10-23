@@ -1,0 +1,57 @@
+stops:
+
+- name: Arboga Resecentrum
+  line: 202
+  index: 0
+  urn: urn:vl-trafik:stop:300300
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Herrgårdsgatan
+  line: 202
+  index: 1
+  urn: urn:vl-trafik:stop:160350
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Belitzgatan
+  line: 202
+  index: 2
+  urn: urn:vl-trafik:stop:160360
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Heijkensköldsgatan
+  line: 202
+  index: 3
+  urn: urn:vl-trafik:stop:160370
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Wettergrensgatan
+  line: 202
+  index: 4
+  urn: urn:vl-trafik:stop:300330
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ekbacken
+  line: 202
+  index: 5
+  urn: urn:vl-trafik:stop:160380
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kungsörsvägen (Teknikparken)
+  line: 202
+  index: 6
+  urn: urn:vl-trafik:stop:160250
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Arboga Teknikpark
+  line: 202
+  index: 7
+  urn: urn:vl-trafik:stop:062004
+  latitude: 0.0
+  longitude: 0.0

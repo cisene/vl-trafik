@@ -1,0 +1,169 @@
+stops:
+
+- name: Norbergs Bstn
+  line: 85
+  index: 0
+  urn: urn:vl-trafik:stop:069018
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Solbacksallén
+  line: 85
+  index: 1
+  urn: urn:vl-trafik:stop:069019
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rosenstigen
+  line: 85
+  index: 2
+  urn: urn:vl-trafik:stop:069020
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stigaregatan
+  line: 85
+  index: 3
+  urn: urn:vl-trafik:stop:069021
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Mariagatan
+  line: 85
+  index: 4
+  urn: urn:vl-trafik:stop:000007
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Täppvägen
+  line: 85
+  index: 5
+  urn: urn:vl-trafik:stop:000008
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Trundhemsvägen
+  line: 85
+  index: 6
+  urn: urn:vl-trafik:stop:000009
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Storkiosken
+  line: 85
+  index: 7
+  urn: urn:vl-trafik:stop:000010
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stora Heden
+  line: 85
+  index: 8
+  urn: urn:vl-trafik:stop:000011
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bolagshagen
+  line: 85
+  index: 9
+  urn: urn:vl-trafik:stop:000012
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lilla Heden
+  line: 85
+  index: 10
+  urn: urn:vl-trafik:stop:000013
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kärrgruvan
+  line: 85
+  index: 11
+  urn: urn:vl-trafik:stop:000020
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Harbovägen
+  line: 85
+  index: 12
+  urn: urn:vl-trafik:stop:000014
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bobergsskolan
+  line: 85
+  index: 13
+  urn: urn:vl-trafik:stop:000015
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Förskolan
+  line: 85
+  index: 14
+  urn: urn:vl-trafik:stop:000016
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Landerstedts
+  line: 85
+  index: 15
+  urn: urn:vl-trafik:stop:000017
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Spettalet Norr
+  line: 85
+  index: 16
+  urn: urn:vl-trafik:stop:000018
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Spettalet Söder
+  line: 85
+  index: 17
+  urn: urn:vl-trafik:stop:000019
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hackspettsbacke
+  line: 85
+  index: 18
+  urn: urn:vl-trafik:stop:068000
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Centralskolan
+  line: 85
+  index: 19
+  urn: urn:vl-trafik:stop:068028
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vårdcentralen
+  line: 85
+  index: 20
+  urn: urn:vl-trafik:stop:068031
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Järnvägsgatan
+  line: 85
+  index: 21
+  urn: urn:vl-trafik:stop:068007
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Blåmesvägen
+  line: 85
+  index: 22
+  urn: urn:vl-trafik:stop:068001
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fågelvägen
+  line: 85
+  index: 23
+  urn: urn:vl-trafik:stop:068513
+  latitude: 0.0
+  longitude: 0.0

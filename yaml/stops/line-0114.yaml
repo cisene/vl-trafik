@@ -1,0 +1,99 @@
+stops:
+
+- name: Västerås Central
+  line: 114
+  index: 0
+  urn: urn:vl-trafik:stop:360000
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fiskartorget
+  line: 114
+  index: 1
+  urn: urn:vl-trafik:stop:060599
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rudbecksgatan
+  line: 114
+  index: 2
+  urn: urn:vl-trafik:stop:360004
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Universitetet
+  line: 114
+  index: 3
+  urn: urn:vl-trafik:stop:360034
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Arosvallen
+  line: 114
+  index: 4
+  urn: urn:vl-trafik:stop:360035
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fatbursgatan
+  line: 114
+  index: 5
+  urn: urn:vl-trafik:stop:360093
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Erikslund N
+  line: 114
+  index: 6
+  urn: urn:vl-trafik:stop:060173
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Häljebo
+  line: 114
+  index: 7
+  urn: urn:vl-trafik:stop:060385
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Boda/Säterholm
+  line: 114
+  index: 8
+  urn: urn:vl-trafik:stop:060384
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Smedstorp
+  line: 114
+  index: 9
+  urn: urn:vl-trafik:stop:060383
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skästa hage
+  line: 114
+  index: 10
+  urn: urn:vl-trafik:stop:060057
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lillhärads vsk
+  line: 114
+  index: 11
+  urn: urn:vl-trafik:stop:060381
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Älgmossen
+  line: 114
+  index: 12
+  urn: urn:vl-trafik:stop:060380
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kranshällarna
+  line: 114
+  index: 13
+  urn: urn:vl-trafik:stop:060379
+  latitude: 0.0
+  longitude: 0.0

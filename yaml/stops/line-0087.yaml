@@ -1,0 +1,99 @@
+stops:
+
+- name: Centralskolan
+  line: 87
+  index: 0
+  urn: urn:vl-trafik:stop:068028
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norbergs Bstn
+  line: 87
+  index: 1
+  urn: urn:vl-trafik:stop:069018
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fagerstav. Nedre
+  line: 87
+  index: 2
+  urn: urn:vl-trafik:stop:069017
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fagerstavägen
+  line: 87
+  index: 3
+  urn: urn:vl-trafik:stop:069016
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Munkgruvan
+  line: 87
+  index: 4
+  urn: urn:vl-trafik:stop:068490
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gruvbyn
+  line: 87
+  index: 5
+  urn: urn:vl-trafik:stop:068005
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Klackberg
+  line: 87
+  index: 6
+  urn: urn:vl-trafik:stop:068822
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Grindbo
+  line: 87
+  index: 7
+  urn: urn:vl-trafik:stop:068064
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hinsebo
+  line: 87
+  index: 8
+  urn: urn:vl-trafik:stop:068135
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Flängan
+  line: 87
+  index: 9
+  urn: urn:vl-trafik:stop:068845
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Halvarsbenning
+  line: 87
+  index: 10
+  urn: urn:vl-trafik:stop:068396
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fragg
+  line: 87
+  index: 11
+  urn: urn:vl-trafik:stop:068467
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gäsjö
+  line: 87
+  index: 12
+  urn: urn:vl-trafik:stop:068728
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Karsbo
+  line: 87
+  index: 13
+  urn: urn:vl-trafik:stop:068181
+  latitude: 0.0
+  longitude: 0.0

@@ -1,0 +1,176 @@
+stops:
+
+- name: Västerås Central
+  line: 22
+  index: 0
+  urn: urn:vl-trafik:stop:360000
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Irsta
+  line: 22
+  index: 1
+  urn: urn:vl-trafik:stop:060598
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sveaborgsvägen
+  line: 22
+  index: 2
+  urn: urn:vl-trafik:stop:060581
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ymergatan
+  line: 22
+  index: 3
+  urn: urn:vl-trafik:stop:060341
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hagbyholm
+  line: 22
+  index: 4
+  urn: urn:vl-trafik:stop:060339
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Klinta
+  line: 22
+  index: 5
+  urn: urn:vl-trafik:stop:060338
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hässlögatan
+  line: 22
+  index: 6
+  urn: urn:vl-trafik:stop:060337
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hälla
+  line: 22
+  index: 7
+  urn: urn:vl-trafik:stop:360128
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tortunavägen
+  line: 22
+  index: 8
+  urn: urn:vl-trafik:stop:360127
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skiljebomotet
+  line: 22
+  index: 9
+  urn: urn:vl-trafik:stop:360126
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Knektgatan
+  line: 22
+  index: 10
+  urn: urn:vl-trafik:stop:060358
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kungsängsgatan
+  line: 22
+  index: 11
+  urn: urn:vl-trafik:stop:360047
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Pilgatan
+  line: 22
+  index: 12
+  urn: urn:vl-trafik:stop:360023
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Östra Ringvägen
+  line: 22
+  index: 13
+  urn: urn:vl-trafik:stop:360007
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Strandbron
+  line: 22
+  index: 14
+  urn: urn:vl-trafik:stop:360145
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lögarängen
+  line: 22
+  index: 15
+  urn: urn:vl-trafik:stop:360146
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Oljevägen
+  line: 22
+  index: 16
+  urn: urn:vl-trafik:stop:360147
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kolvägen
+  line: 22
+  index: 17
+  urn: urn:vl-trafik:stop:360148
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Johannisberg
+  line: 22
+  index: 18
+  urn: urn:vl-trafik:stop:060414
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lövudden
+  line: 22
+  index: 19
+  urn: urn:vl-trafik:stop:060415
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ekbacken
+  line: 22
+  index: 20
+  urn: urn:vl-trafik:stop:060612
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Enhagen
+  line: 22
+  index: 21
+  urn: urn:vl-trafik:stop:060613
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Barkarö bygata
+  line: 22
+  index: 22
+  urn: urn:vl-trafik:stop:060627
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gotövägen
+  line: 22
+  index: 23
+  urn: urn:vl-trafik:stop:060628
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Örtagården
+  line: 22
+  index: 24
+  urn: urn:vl-trafik:stop:060548
+  latitude: 0.0
+  longitude: 0.0

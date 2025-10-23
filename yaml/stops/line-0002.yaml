@@ -1,0 +1,275 @@
+stops:
+
+- name: Björnöbadet
+  line: 2
+  index: 0
+  urn: urn:vl-trafik:stop:360061
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hamregatan
+  line: 2
+  index: 1
+  urn: urn:vl-trafik:stop:360053
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Björnögården
+  line: 2
+  index: 2
+  urn: urn:vl-trafik:stop:360060
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Björnöbron
+  line: 2
+  index: 3
+  urn: urn:vl-trafik:stop:360058
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Pilotgatan
+  line: 2
+  index: 4
+  urn: urn:vl-trafik:stop:360057
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Flottiljgatan
+  line: 2
+  index: 5
+  urn: urn:vl-trafik:stop:360056
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Eskadergatan
+  line: 2
+  index: 6
+  urn: urn:vl-trafik:stop:360055
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Edströmska gymnasiet
+  line: 2
+  index: 7
+  urn: urn:vl-trafik:stop:360054
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Barometergatan
+  line: 2
+  index: 8
+  urn: urn:vl-trafik:stop:360068
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Jaktplansgatan
+  line: 2
+  index: 9
+  urn: urn:vl-trafik:stop:360067
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vinggatan - Tillfällig hållplats
+  line: 2
+  index: 10
+  urn: urn:vl-trafik:stop:360225
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stadsträdgården
+  line: 2
+  index: 11
+  urn: urn:vl-trafik:stop:360052
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Framnäs
+  line: 2
+  index: 12
+  urn: urn:vl-trafik:stop:360051
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vinggatan
+  line: 2
+  index: 13
+  urn: urn:vl-trafik:stop:360050
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Mälarparksvägen
+  line: 2
+  index: 14
+  urn: urn:vl-trafik:stop:360049
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kraftverket
+  line: 2
+  index: 15
+  urn: urn:vl-trafik:stop:360048
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kungsängsgatan
+  line: 2
+  index: 16
+  urn: urn:vl-trafik:stop:360047
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Pilgatan
+  line: 2
+  index: 17
+  urn: urn:vl-trafik:stop:360023
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Östra Ringvägen
+  line: 2
+  index: 18
+  urn: urn:vl-trafik:stop:360007
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerås Central
+  line: 2
+  index: 19
+  urn: urn:vl-trafik:stop:360000
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västgötegatan
+  line: 2
+  index: 20
+  urn: urn:vl-trafik:stop:060240
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Biskopsgatan
+  line: 2
+  index: 21
+  urn: urn:vl-trafik:stop:060370
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Blåsbogatan
+  line: 2
+  index: 22
+  urn: urn:vl-trafik:stop:360188
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stora Gatan
+  line: 2
+  index: 23
+  urn: urn:vl-trafik:stop:360001
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Smedjegatan
+  line: 2
+  index: 24
+  urn: urn:vl-trafik:stop:360003
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rudbecksgatan
+  line: 2
+  index: 25
+  urn: urn:vl-trafik:stop:360004
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Universitetet
+  line: 2
+  index: 26
+  urn: urn:vl-trafik:stop:360034
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Arosvallen
+  line: 2
+  index: 27
+  urn: urn:vl-trafik:stop:360035
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sångargatan
+  line: 2
+  index: 28
+  urn: urn:vl-trafik:stop:360036
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rocklunda S
+  line: 2
+  index: 29
+  urn: urn:vl-trafik:stop:360037
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rocklunda N
+  line: 2
+  index: 30
+  urn: urn:vl-trafik:stop:360038
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Apalby
+  line: 2
+  index: 31
+  urn: urn:vl-trafik:stop:360039
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Illervägen
+  line: 2
+  index: 32
+  urn: urn:vl-trafik:stop:360040
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Södra Gryta
+  line: 2
+  index: 33
+  urn: urn:vl-trafik:stop:360041
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stövarvägen
+  line: 2
+  index: 34
+  urn: urn:vl-trafik:stop:360042
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Drevervägen
+  line: 2
+  index: 35
+  urn: urn:vl-trafik:stop:360043
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Önsta Centrum
+  line: 2
+  index: 36
+  urn: urn:vl-trafik:stop:360044
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Blåregnsgatan
+  line: 2
+  index: 37
+  urn: urn:vl-trafik:stop:360045
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norra Gryta
+  line: 2
+  index: 38
+  urn: urn:vl-trafik:stop:360046
+  latitude: 0.0
+  longitude: 0.0
+

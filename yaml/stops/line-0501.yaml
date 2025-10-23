@@ -1,0 +1,344 @@
+stops:
+
+- name: Skinnskatteberg jvstn
+  line: 501
+  index: 0
+  urn: urn:vl-trafik:stop:061086
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Klockarberget
+  line: 501
+  index: 1
+  urn: urn:vl-trafik:stop:061085
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sotvretsvägen
+  line: 501
+  index: 2
+  urn: urn:vl-trafik:stop:061084
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ö Ringvägen
+  line: 501
+  index: 3
+  urn: urn:vl-trafik:stop:061083
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Borntorpet
+  line: 501
+  index: 4
+  urn: urn:vl-trafik:stop:061082
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hyttvägen
+  line: 501
+  index: 5
+  urn: urn:vl-trafik:stop:061080
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Folkhögskolan
+  line: 501
+  index: 6
+  urn: urn:vl-trafik:stop:061079
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vätterskoga
+  line: 501
+  index: 7
+  urn: urn:vl-trafik:stop:061078
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Laggarbo/Piltorp
+  line: 501
+  index: 8
+  urn: urn:vl-trafik:stop:061077
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sillbo
+  line: 501
+  index: 9
+  urn: urn:vl-trafik:stop:061076
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Uttersberg
+  line: 501
+  index: 10
+  urn: urn:vl-trafik:stop:061075
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Östanfors
+  line: 501
+  index: 11
+  urn: urn:vl-trafik:stop:061074
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Snarhem
+  line: 501
+  index: 12
+  urn: urn:vl-trafik:stop:061073
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tomasbo
+  line: 501
+  index: 13
+  urn: urn:vl-trafik:stop:061072
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Oxbron
+  line: 501
+  index: 14
+  urn: urn:vl-trafik:stop:069045
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lillängen
+  line: 501
+  index: 15
+  urn: urn:vl-trafik:stop:061071
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västanhed
+  line: 501
+  index: 16
+  urn: urn:vl-trafik:stop:061070
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bygget
+  line: 501
+  index: 17
+  urn: urn:vl-trafik:stop:061069
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Karmansbo
+  line: 501
+  index: 18
+  urn: urn:vl-trafik:stop:061068
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hed
+  line: 501
+  index: 19
+  urn: urn:vl-trafik:stop:061067
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bernshammar
+  line: 501
+  index: 20
+  urn: urn:vl-trafik:stop:061066
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bubbarsbo
+  line: 501
+  index: 21
+  urn: urn:vl-trafik:stop:061064
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Jäxbo
+  line: 501
+  index: 22
+  urn: urn:vl-trafik:stop:061062
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gisslarbo
+  line: 501
+  index: 23
+  urn: urn:vl-trafik:stop:061061
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Magasinet
+  line: 501
+  index: 24
+  urn: urn:vl-trafik:stop:061053
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Solmyravägen
+  line: 501
+  index: 25
+  urn: urn:vl-trafik:stop:061033
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kolsva vägförvaltning
+  line: 501
+  index: 26
+  urn: urn:vl-trafik:stop:312158
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kolsva Norra
+  line: 501
+  index: 27
+  urn: urn:vl-trafik:stop:312156
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Strömvägen
+  line: 501
+  index: 28
+  urn: urn:vl-trafik:stop:312154
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Korsvägen
+  line: 501
+  index: 29
+  urn: urn:vl-trafik:stop:312152
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kolsva Centrum
+  line: 501
+  index: 30
+  urn: urn:vl-trafik:stop:312144
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Parkvägen
+  line: 501
+  index: 31
+  urn: urn:vl-trafik:stop:312140
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Olstorpsvägen
+  line: 501
+  index: 32
+  urn: urn:vl-trafik:stop:312138
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rabovägen
+  line: 501
+  index: 33
+  urn: urn:vl-trafik:stop:312136
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Trastvägen
+  line: 501
+  index: 34
+  urn: urn:vl-trafik:stop:312134
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Torsmossen
+  line: 501
+  index: 35
+  urn: urn:vl-trafik:stop:312130
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Guttsta
+  line: 501
+  index: 36
+  urn: urn:vl-trafik:stop:312128
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vallsta
+  line: 501
+  index: 37
+  urn: urn:vl-trafik:stop:312126
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Torp
+  line: 501
+  index: 38
+  urn: urn:vl-trafik:stop:312124
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lugnet
+  line: 501
+  index: 39
+  urn: urn:vl-trafik:stop:312120
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åsby
+  line: 501
+  index: 40
+  urn: urn:vl-trafik:stop:312118
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lyftingevägen
+  line: 501
+  index: 41
+  urn: urn:vl-trafik:stop:312116
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Holmsmalma
+  line: 501
+  index: 42
+  urn: urn:vl-trafik:stop:312114
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Korslöt
+  line: 501
+  index: 43
+  urn: urn:vl-trafik:stop:312112
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bergslagsvägen Norra
+  line: 501
+  index: 44
+  urn: urn:vl-trafik:stop:061280
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Torggatan
+  line: 501
+  index: 45
+  urn: urn:vl-trafik:stop:300208
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hökartorget
+  line: 501
+  index: 46
+  urn: urn:vl-trafik:stop:300207
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sjukhuset Köping
+  line: 501
+  index: 47
+  urn: urn:vl-trafik:stop:300205
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Köping Jvstn
+  line: 501
+  index: 48
+  urn: urn:vl-trafik:stop:300200
+  latitude: 0.0
+  longitude: 0.0

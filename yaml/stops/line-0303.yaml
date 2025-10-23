@@ -1,0 +1,183 @@
+stops:
+
+- name: Fagersta Central
+  line: 303
+  index: 0
+  urn: urn:vl-trafik:stop:069008
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Solliden
+  line: 303
+  index: 1
+  urn: urn:vl-trafik:stop:064083
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västanfors Kyrka
+  line: 303
+  index: 2
+  urn: urn:vl-trafik:stop:064085
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lindgården
+  line: 303
+  index: 3
+  urn: urn:vl-trafik:stop:064086
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kyrkvägen
+  line: 303
+  index: 4
+  urn: urn:vl-trafik:stop:064087
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fagersta Lasarett
+  line: 303
+  index: 5
+  urn: urn:vl-trafik:stop:069009
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hästhovsvägen
+  line: 303
+  index: 6
+  urn: urn:vl-trafik:stop:064066
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norrbyvägen
+  line: 303
+  index: 7
+  urn: urn:vl-trafik:stop:064065
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ringvägen
+  line: 303
+  index: 8
+  urn: urn:vl-trafik:stop:064059
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ringvägen Nedre
+  line: 303
+  index: 9
+  urn: urn:vl-trafik:stop:064064
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ringvägen Övre
+  line: 303
+  index: 10
+  urn: urn:vl-trafik:stop:064063
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Risbrokyrkan
+  line: 303
+  index: 11
+  urn: urn:vl-trafik:stop:064062
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Smidesvägen
+  line: 303
+  index: 12
+  urn: urn:vl-trafik:stop:064061
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Martingatan
+  line: 303
+  index: 13
+  urn: urn:vl-trafik:stop:064060
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lancashiregatan
+  line: 303
+  index: 14
+  urn: urn:vl-trafik:stop:064003
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Polishuset
+  line: 303
+  index: 15
+  urn: urn:vl-trafik:stop:064058
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gallerian
+  line: 303
+  index: 16
+  urn: urn:vl-trafik:stop:069011
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vilhelminaparken
+  line: 303
+  index: 17
+  urn: urn:vl-trafik:stop:064120
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sturevägen
+  line: 303
+  index: 18
+  urn: urn:vl-trafik:stop:064044
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Dalavägen
+  line: 303
+  index: 19
+  urn: urn:vl-trafik:stop:064052
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kolmilegränd
+  line: 303
+  index: 20
+  urn: urn:vl-trafik:stop:064053
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hantverksvägen
+  line: 303
+  index: 21
+  urn: urn:vl-trafik:stop:064054
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stövargränd
+  line: 303
+  index: 22
+  urn: urn:vl-trafik:stop:064056
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Forsbackavägen
+  line: 303
+  index: 23
+  urn: urn:vl-trafik:stop:064057
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kolargränd
+  line: 303
+  index: 24
+  urn: urn:vl-trafik:stop:064068
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Myrbovägen
+  line: 303
+  index: 25
+  urn: urn:vl-trafik:stop:064127
+  latitude: 0.0
+  longitude: 0.0

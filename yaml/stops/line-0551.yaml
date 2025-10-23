@@ -1,0 +1,148 @@
+stops:
+
+- name: Köping Jvstn
+  line: 551
+  index: 0
+  urn: urn:vl-trafik:stop:300200
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sjukhuset Köping
+  line: 551
+  index: 1
+  urn: urn:vl-trafik:stop:300205
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hökartorget
+  line: 551
+  index: 2
+  urn: urn:vl-trafik:stop:300207
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Torggatan
+  line: 551
+  index: 3
+  urn: urn:vl-trafik:stop:300208
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nya Hamnvägen
+  line: 551
+  index: 4
+  urn: urn:vl-trafik:stop:061351
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Husta
+  line: 551
+  index: 5
+  urn: urn:vl-trafik:stop:312110
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Högsta
+  line: 551
+  index: 6
+  urn: urn:vl-trafik:stop:312160
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Östtuna
+  line: 551
+  index: 7
+  urn: urn:vl-trafik:stop:316357
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Borsingby
+  line: 551
+  index: 8
+  urn: urn:vl-trafik:stop:316359
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Viadukten
+  line: 551
+  index: 9
+  urn: urn:vl-trafik:stop:316361
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Björskogs vsk
+  line: 551
+  index: 10
+  urn: urn:vl-trafik:stop:316363
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Valskog centrum
+  line: 551
+  index: 11
+  urn: urn:vl-trafik:stop:316365
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vavle
+  line: 551
+  index: 12
+  urn: urn:vl-trafik:stop:316367
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Täby
+  line: 551
+  index: 13
+  urn: urn:vl-trafik:stop:316369
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Täby/Sörby
+  line: 551
+  index: 14
+  urn: urn:vl-trafik:stop:316371
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gräsnäs
+  line: 551
+  index: 15
+  urn: urn:vl-trafik:stop:067031
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Näsby
+  line: 551
+  index: 16
+  urn: urn:vl-trafik:stop:313110
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Strängen
+  line: 551
+  index: 17
+  urn: urn:vl-trafik:stop:300320
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Varvsgatan
+  line: 551
+  index: 18
+  urn: urn:vl-trafik:stop:300318
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stationsgatan
+  line: 551
+  index: 19
+  urn: urn:vl-trafik:stop:300316
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Arboga Resecentrum
+  line: 551
+  index: 20
+  urn: urn:vl-trafik:stop:300300
+  latitude: 0.0
+  longitude: 0.0

@@ -1,0 +1,57 @@
+stops:
+
+- name: Öster Mälarstrand
+  line: 15
+  index: 0
+  urn: urn:vl-trafik:stop:360222
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Råsegelgatan
+  line: 15
+  index: 1
+  urn: urn:vl-trafik:stop:360223
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Mälarparksvägen
+  line: 15
+  index: 2
+  urn: urn:vl-trafik:stop:360049
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kraftverket
+  line: 15
+  index: 3
+  urn: urn:vl-trafik:stop:360048
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kungsängsgatan
+  line: 15
+  index: 4
+  urn: urn:vl-trafik:stop:360047
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Pilgatan
+  line: 15
+  index: 5
+  urn: urn:vl-trafik:stop:360023
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Östra Ringvägen
+  line: 15
+  index: 6
+  urn: urn:vl-trafik:stop:360007
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerås Central
+  line: 15
+  index: 7
+  urn: urn:vl-trafik:stop:360000
+  latitude: 0.0
+  longitude: 0.0

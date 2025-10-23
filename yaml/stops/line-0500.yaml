@@ -1,0 +1,330 @@
+stops:
+
+- name: Skinnskatteberg jvstn
+  line: 500
+  index: 0
+  urn: urn:vl-trafik:stop:061086
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Långvikstorp
+  line: 500
+  index: 1
+  urn: urn:vl-trafik:stop:061087
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rönningen
+  line: 500
+  index: 2
+  urn: urn:vl-trafik:stop:061088
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Långviken
+  line: 500
+  index: 3
+  urn: urn:vl-trafik:stop:061089
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Brofallet
+  line: 500
+  index: 4
+  urn: urn:vl-trafik:stop:061090
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Höglunda
+  line: 500
+  index: 5
+  urn: urn:vl-trafik:stop:061091
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Alderkärret
+  line: 500
+  index: 6
+  urn: urn:vl-trafik:stop:061092
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nedre sundet
+  line: 500
+  index: 7
+  urn: urn:vl-trafik:stop:061093
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sundet
+  line: 500
+  index: 8
+  urn: urn:vl-trafik:stop:061094
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Darsbo V
+  line: 500
+  index: 9
+  urn: urn:vl-trafik:stop:061095
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Darsbo Ö
+  line: 500
+  index: 10
+  urn: urn:vl-trafik:stop:061096
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Björkviken
+  line: 500
+  index: 11
+  urn: urn:vl-trafik:stop:061097
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Orrudden
+  line: 500
+  index: 12
+  urn: urn:vl-trafik:stop:061098
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Dagarn
+  line: 500
+  index: 13
+  urn: urn:vl-trafik:stop:061099
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Morbyn
+  line: 500
+  index: 14
+  urn: urn:vl-trafik:stop:069000
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Mortorp
+  line: 500
+  index: 15
+  urn: urn:vl-trafik:stop:069001
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hagen
+  line: 500
+  index: 16
+  urn: urn:vl-trafik:stop:069002
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Oti
+  line: 500
+  index: 17
+  urn: urn:vl-trafik:stop:069003
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kopängsvägen
+  line: 500
+  index: 18
+  urn: urn:vl-trafik:stop:069004
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fårbo industriområde
+  line: 500
+  index: 19
+  urn: urn:vl-trafik:stop:069005
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hembygdsgården
+  line: 500
+  index: 20
+  urn: urn:vl-trafik:stop:069006
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Övre sundet
+  line: 500
+  index: 21
+  urn: urn:vl-trafik:stop:069043
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fagersta Central
+  line: 500
+  index: 22
+  urn: urn:vl-trafik:stop:069008
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Södra Porten
+  line: 500
+  index: 23
+  urn: urn:vl-trafik:stop:064130
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Brinellskolan
+  line: 500
+  index: 24
+  urn: urn:vl-trafik:stop:069010
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Järntorget
+  line: 500
+  index: 25
+  urn: urn:vl-trafik:stop:069012
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fagerstavägen
+  line: 500
+  index: 26
+  urn: urn:vl-trafik:stop:069016
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fagerstav. Nedre
+  line: 500
+  index: 27
+  urn: urn:vl-trafik:stop:069017
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norbergs Bstn
+  line: 500
+  index: 28
+  urn: urn:vl-trafik:stop:069018
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Solbacksallén
+  line: 500
+  index: 29
+  urn: urn:vl-trafik:stop:069019
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rosenstigen
+  line: 500
+  index: 30
+  urn: urn:vl-trafik:stop:069020
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stigaregatan
+  line: 500
+  index: 31
+  urn: urn:vl-trafik:stop:069021
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Spännarhyttan Ö
+  line: 500
+  index: 32
+  urn: urn:vl-trafik:stop:069023
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Läbacken
+  line: 500
+  index: 33
+  urn: urn:vl-trafik:stop:069024
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Backtorpet
+  line: 500
+  index: 34
+  urn: urn:vl-trafik:stop:069025
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Andersbenning
+  line: 500
+  index: 35
+  urn: urn:vl-trafik:stop:069026
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bjurfors
+  line: 500
+  index: 36
+  urn: urn:vl-trafik:stop:068044
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Prästgatan
+  line: 500
+  index: 37
+  urn: urn:vl-trafik:stop:071006
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hackspettsbacke
+  line: 500
+  index: 38
+  urn: urn:vl-trafik:stop:068000
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Avesta busstation
+  line: 500
+  index: 39
+  urn: urn:vl-trafik:stop:071007
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bryggaregatan
+  line: 500
+  index: 40
+  urn: urn:vl-trafik:stop:071008
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Avesta teater
+  line: 500
+  index: 41
+  urn: urn:vl-trafik:stop:071009
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Torsgatan
+  line: 500
+  index: 42
+  urn: urn:vl-trafik:stop:071010
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bergsnäs
+  line: 500
+  index: 43
+  urn: urn:vl-trafik:stop:071011
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bergsnäsgatan
+  line: 500
+  index: 44
+  urn: urn:vl-trafik:stop:071012
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Avesta Lasarett
+  line: 500
+  index: 45
+  urn: urn:vl-trafik:stop:071013
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Krylbo resecentrum
+  line: 500
+  index: 46
+  urn: urn:vl-trafik:stop:071014
+  latitude: 0.0
+  longitude: 0.0

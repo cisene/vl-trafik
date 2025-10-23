@@ -1,0 +1,78 @@
+stops:
+
+- name: Sevalla
+  line: 31
+  index: 0
+  urn: urn:vl-trafik:stop:060334
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Labacken vsk
+  line: 31
+  index: 1
+  urn: urn:vl-trafik:stop:060576
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Attersta
+  line: 31
+  index: 2
+  urn: urn:vl-trafik:stop:060575
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vrian
+  line: 31
+  index: 3
+  urn: urn:vl-trafik:stop:060333
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hedensberg
+  line: 31
+  index: 4
+  urn: urn:vl-trafik:stop:060332
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tortuna vsk
+  line: 31
+  index: 5
+  urn: urn:vl-trafik:stop:060331
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tillberga k:a
+  line: 31
+  index: 6
+  urn: urn:vl-trafik:stop:060330
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hällby
+  line: 31
+  index: 7
+  urn: urn:vl-trafik:stop:060329
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Konduktörsvägen
+  line: 31
+  index: 8
+  urn: urn:vl-trafik:stop:060609
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tillberga Centrum
+  line: 31
+  index: 9
+  urn: urn:vl-trafik:stop:060326
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tillberga
+  line: 31
+  index: 10
+  urn: urn:vl-trafik:stop:060608
+  latitude: 0.0
+  longitude: 0.0

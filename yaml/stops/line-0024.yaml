@@ -1,0 +1,344 @@
+stops:
+
+- name: Västerås Central
+  line: 24
+  index: 0
+  urn: urn:vl-trafik:stop:360000
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Östra Ringvägen
+  line: 24
+  index: 1
+  urn: urn:vl-trafik:stop:360007
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Pilgatan
+  line: 24
+  index: 2
+  urn: urn:vl-trafik:stop:360023
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kungsängsgatan
+  line: 24
+  index: 3
+  urn: urn:vl-trafik:stop:360047
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Knektgatan
+  line: 24
+  index: 4
+  urn: urn:vl-trafik:stop:060358
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skiljebomotet
+  line: 24
+  index: 5
+  urn: urn:vl-trafik:stop:360126
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tortunavägen
+  line: 24
+  index: 6
+  urn: urn:vl-trafik:stop:360127
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skälby vsk
+  line: 24
+  index: 7
+  urn: urn:vl-trafik:stop:060438
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tibble
+  line: 24
+  index: 8
+  urn: urn:vl-trafik:stop:060439
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Anundshög
+  line: 24
+  index: 9
+  urn: urn:vl-trafik:stop:060440
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Långby
+  line: 24
+  index: 10
+  urn: urn:vl-trafik:stop:060441
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörby vsk
+  line: 24
+  index: 11
+  urn: urn:vl-trafik:stop:060442
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Berga
+  line: 24
+  index: 12
+  urn: urn:vl-trafik:stop:060443
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stora Hejarne vsk
+  line: 24
+  index: 13
+  urn: urn:vl-trafik:stop:060444
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vedby
+  line: 24
+  index: 14
+  urn: urn:vl-trafik:stop:060445
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gustavsberg
+  line: 24
+  index: 15
+  urn: urn:vl-trafik:stop:060446
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kolmsta V
+  line: 24
+  index: 16
+  urn: urn:vl-trafik:stop:060447
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kolmsta
+  line: 24
+  index: 17
+  urn: urn:vl-trafik:stop:060448
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ramsta
+  line: 24
+  index: 18
+  urn: urn:vl-trafik:stop:060449
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Almsta
+  line: 24
+  index: 19
+  urn: urn:vl-trafik:stop:060450
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Frögärde
+  line: 24
+  index: 20
+  urn: urn:vl-trafik:stop:060451
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hallstaberg
+  line: 24
+  index: 21
+  urn: urn:vl-trafik:stop:060452
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Valla
+  line: 24
+  index: 22
+  urn: urn:vl-trafik:stop:060453
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vallhalla
+  line: 24
+  index: 23
+  urn: urn:vl-trafik:stop:060454
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Björksta k:a
+  line: 24
+  index: 24
+  urn: urn:vl-trafik:stop:060455
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skarsvad
+  line: 24
+  index: 25
+  urn: urn:vl-trafik:stop:060456
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Orresta
+  line: 24
+  index: 26
+  urn: urn:vl-trafik:stop:060457
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Karlsrovägen
+  line: 24
+  index: 27
+  urn: urn:vl-trafik:stop:060458
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kärsta S
+  line: 24
+  index: 28
+  urn: urn:vl-trafik:stop:060459
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kärsta
+  line: 24
+  index: 29
+  urn: urn:vl-trafik:stop:060460
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Brandstationen
+  line: 24
+  index: 30
+  urn: urn:vl-trafik:stop:060461
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Breds vsk
+  line: 24
+  index: 31
+  urn: urn:vl-trafik:stop:060462
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Broby vsk
+  line: 24
+  index: 32
+  urn: urn:vl-trafik:stop:060463
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vida vsk
+  line: 24
+  index: 33
+  urn: urn:vl-trafik:stop:060464
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Krondal
+  line: 24
+  index: 34
+  urn: urn:vl-trafik:stop:060465
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Grindbo
+  line: 24
+  index: 35
+  urn: urn:vl-trafik:stop:060466
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lilla Ängesta
+  line: 24
+  index: 36
+  urn: urn:vl-trafik:stop:060467
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Öster Råby
+  line: 24
+  index: 37
+  urn: urn:vl-trafik:stop:060468
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Långbo Ö
+  line: 24
+  index: 38
+  urn: urn:vl-trafik:stop:060469
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Långbo V
+  line: 24
+  index: 39
+  urn: urn:vl-trafik:stop:060470
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vändle skola
+  line: 24
+  index: 40
+  urn: urn:vl-trafik:stop:060471
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tortuna k:a
+  line: 24
+  index: 41
+  urn: urn:vl-trafik:stop:060472
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tortuna
+  line: 24
+  index: 42
+  urn: urn:vl-trafik:stop:060473
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nicktuna
+  line: 24
+  index: 43
+  urn: urn:vl-trafik:stop:060474
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sör Hälla
+  line: 24
+  index: 44
+  urn: urn:vl-trafik:stop:060475
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stolpbo
+  line: 24
+  index: 45
+  urn: urn:vl-trafik:stop:060476
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ingeberga
+  line: 24
+  index: 46
+  urn: urn:vl-trafik:stop:060519
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Myrby
+  line: 24
+  index: 47
+  urn: urn:vl-trafik:stop:060477
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tuna
+  line: 24
+  index: 48
+  urn: urn:vl-trafik:stop:060478
+  latitude: 0.0
+  longitude: 0.0

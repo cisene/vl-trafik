@@ -1,0 +1,64 @@
+stops:
+
+- name: Västerås Central
+  line: 7
+  index: 0
+  urn: urn:vl-trafik:stop:360000
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Strandbron
+  line: 7
+  index: 1
+  urn: urn:vl-trafik:stop:360145
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lögarängen
+  line: 7
+  index: 2
+  urn: urn:vl-trafik:stop:360146
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Oljevägen
+  line: 7
+  index: 3
+  urn: urn:vl-trafik:stop:360147
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kolvägen
+  line: 7
+  index: 4
+  urn: urn:vl-trafik:stop:360148
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Örjansgränd
+  line: 7
+  index: 5
+  urn: urn:vl-trafik:stop:360149
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Munkbovägen
+  line: 7
+  index: 6
+  urn: urn:vl-trafik:stop:360150
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Trundhem
+  line: 7
+  index: 7
+  urn: urn:vl-trafik:stop:360151
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hacksta
+  line: 7
+  index: 8
+  urn: urn:vl-trafik:stop:360152
+  latitude: 0.0
+  longitude: 0.0

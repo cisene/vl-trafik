@@ -1,0 +1,106 @@
+stops:
+
+- name: Sala Resecentrum
+  line: 402
+  index: 0
+  urn: urn:vl-trafik:stop:063999
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Väsbygatan
+  line: 402
+  index: 1
+  urn: urn:vl-trafik:stop:063061
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stockholmsvägen
+  line: 402
+  index: 2
+  urn: urn:vl-trafik:stop:063094
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörskogsleden
+  line: 402
+  index: 3
+  urn: urn:vl-trafik:stop:063093
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gymnasiegatan
+  line: 402
+  index: 4
+  urn: urn:vl-trafik:stop:063362
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vintergatan
+  line: 402
+  index: 5
+  urn: urn:vl-trafik:stop:063215
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Marsgatan
+  line: 402
+  index: 6
+  urn: urn:vl-trafik:stop:063216
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ängshagen
+  line: 402
+  index: 7
+  urn: urn:vl-trafik:stop:063013
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Mariebergsgatan
+  line: 402
+  index: 8
+  urn: urn:vl-trafik:stop:063224
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Turbo
+  line: 402
+  index: 9
+  urn: urn:vl-trafik:stop:063214
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bryggeriet
+  line: 402
+  index: 10
+  urn: urn:vl-trafik:stop:063213
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gruvvägen
+  line: 402
+  index: 11
+  urn: urn:vl-trafik:stop:063223
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Jakobsbergsgatan
+  line: 402
+  index: 12
+  urn: urn:vl-trafik:stop:063211
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ekebygatan
+  line: 402
+  index: 13
+  urn: urn:vl-trafik:stop:063037
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fiskartorget
+  line: 402
+  index: 14
+  urn: urn:vl-trafik:stop:063002
+  latitude: 0.0
+  longitude: 0.0

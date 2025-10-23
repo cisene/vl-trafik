@@ -1,0 +1,218 @@
+stops:
+
+- name: Finnslätten N
+  line: 6
+  index: 0
+  urn: urn:vl-trafik:stop:360110
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stolpgatan
+  line: 6
+  index: 1
+  urn: urn:vl-trafik:stop:360144
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stenbygatan
+  line: 6
+  index: 2
+  urn: urn:vl-trafik:stop:360143
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stenby
+  line: 6
+  index: 3
+  urn: urn:vl-trafik:stop:360142
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bangatan
+  line: 6
+  index: 4
+  urn: urn:vl-trafik:stop:360141
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Svärdsliljegatan
+  line: 6
+  index: 5
+  urn: urn:vl-trafik:stop:360140
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hästhovsgatan
+  line: 6
+  index: 6
+  urn: urn:vl-trafik:stop:360139
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Humlegatan
+  line: 6
+  index: 7
+  urn: urn:vl-trafik:stop:360138
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Långmårtensgatan
+  line: 6
+  index: 8
+  urn: urn:vl-trafik:stop:360137
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tegnér
+  line: 6
+  index: 9
+  urn: urn:vl-trafik:stop:360135
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kopparlunden
+  line: 6
+  index: 10
+  urn: urn:vl-trafik:stop:360006
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerås Central
+  line: 6
+  index: 11
+  urn: urn:vl-trafik:stop:360000
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västgötegatan
+  line: 6
+  index: 12
+  urn: urn:vl-trafik:stop:060240
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Biskopsgatan
+  line: 6
+  index: 13
+  urn: urn:vl-trafik:stop:060370
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Blåsbogatan
+  line: 6
+  index: 14
+  urn: urn:vl-trafik:stop:360188
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stora Gatan
+  line: 6
+  index: 15
+  urn: urn:vl-trafik:stop:360001
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Smedjegatan
+  line: 6
+  index: 16
+  urn: urn:vl-trafik:stop:360003
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rudbecksgatan
+  line: 6
+  index: 17
+  urn: urn:vl-trafik:stop:360004
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Universitetet
+  line: 6
+  index: 18
+  urn: urn:vl-trafik:stop:360034
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Arosvallen
+  line: 6
+  index: 19
+  urn: urn:vl-trafik:stop:360035
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sångargatan
+  line: 6
+  index: 20
+  urn: urn:vl-trafik:stop:360036
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rocklunda S
+  line: 6
+  index: 21
+  urn: urn:vl-trafik:stop:360037
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rocklunda N
+  line: 6
+  index: 22
+  urn: urn:vl-trafik:stop:360038
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Apalby
+  line: 6
+  index: 23
+  urn: urn:vl-trafik:stop:360039
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åshagen
+  line: 6
+  index: 24
+  urn: urn:vl-trafik:stop:360129
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Billsta
+  line: 6
+  index: 25
+  urn: urn:vl-trafik:stop:360130
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bandygatan
+  line: 6
+  index: 26
+  urn: urn:vl-trafik:stop:360131
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Diskusgatan
+  line: 6
+  index: 27
+  urn: urn:vl-trafik:stop:360132
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Släggkastargatan
+  line: 6
+  index: 28
+  urn: urn:vl-trafik:stop:360133
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Östra Ringvägen
+  line: 6
+  index: 29
+  urn: urn:vl-trafik:stop:360007
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rönnby C
+  line: 6
+  index: 30
+  urn: urn:vl-trafik:stop:360134
+  latitude: 0.0
+  longitude: 0.0

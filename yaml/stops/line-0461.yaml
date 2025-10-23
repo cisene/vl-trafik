@@ -1,0 +1,344 @@
+stops:
+
+- name: Nilsbyn
+  line: 461
+  index: 0
+  urn: urn:vl-trafik:stop:063806
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gullbo
+  line: 461
+  index: 1
+  urn: urn:vl-trafik:stop:063805
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Häggebäcken
+  line: 461
+  index: 2
+  urn: urn:vl-trafik:stop:063804
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stutbo
+  line: 461
+  index: 3
+  urn: urn:vl-trafik:stop:063803
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Johannelund
+  line: 461
+  index: 4
+  urn: urn:vl-trafik:stop:063807
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Båtfinnbo
+  line: 461
+  index: 5
+  urn: urn:vl-trafik:stop:063818
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stora Matsbo
+  line: 461
+  index: 6
+  urn: urn:vl-trafik:stop:063808
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Källtorpet (Västerbykil)
+  line: 461
+  index: 7
+  urn: urn:vl-trafik:stop:063345
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fallänge
+  line: 461
+  index: 8
+  urn: urn:vl-trafik:stop:063363
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Salängen
+  line: 461
+  index: 9
+  urn: urn:vl-trafik:stop:063819
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Björsbo
+  line: 461
+  index: 10
+  urn: urn:vl-trafik:stop:063346
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerbykil bygdegård
+  line: 461
+  index: 11
+  urn: urn:vl-trafik:stop:063275
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hyttbacken
+  line: 461
+  index: 12
+  urn: urn:vl-trafik:stop:063274
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Smedsbo
+  line: 461
+  index: 13
+  urn: urn:vl-trafik:stop:063273
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stenby
+  line: 461
+  index: 14
+  urn: urn:vl-trafik:stop:063053
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerbykil
+  line: 461
+  index: 15
+  urn: urn:vl-trafik:stop:063051
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nergården
+  line: 461
+  index: 16
+  urn: urn:vl-trafik:stop:063276
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kilbo skola
+  line: 461
+  index: 17
+  urn: urn:vl-trafik:stop:063800
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Mälby vsk
+  line: 461
+  index: 18
+  urn: urn:vl-trafik:stop:063277
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hedåker
+  line: 461
+  index: 19
+  urn: urn:vl-trafik:stop:063278
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Brobacke
+  line: 461
+  index: 20
+  urn: urn:vl-trafik:stop:063052
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Knutshyttan (Brobacke)
+  line: 461
+  index: 21
+  urn: urn:vl-trafik:stop:063330
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Knutshyttan vsk
+  line: 461
+  index: 22
+  urn: urn:vl-trafik:stop:063306
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Smulsnaret
+  line: 461
+  index: 23
+  urn: urn:vl-trafik:stop:063281
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lungbo (Brobacke)
+  line: 461
+  index: 24
+  urn: urn:vl-trafik:stop:063329
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lugnet vsk
+  line: 461
+  index: 25
+  urn: urn:vl-trafik:stop:063359
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Viggsjön
+  line: 461
+  index: 26
+  urn: urn:vl-trafik:stop:063282
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Viggbo
+  line: 461
+  index: 27
+  urn: urn:vl-trafik:stop:063050
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Duvmuren
+  line: 461
+  index: 28
+  urn: urn:vl-trafik:stop:063283
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tappebo
+  line: 461
+  index: 29
+  urn: urn:vl-trafik:stop:063284
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hedbostängslet (Salbohed)
+  line: 461
+  index: 30
+  urn: urn:vl-trafik:stop:063331
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hedbo
+  line: 461
+  index: 31
+  urn: urn:vl-trafik:stop:063049
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hedbo S
+  line: 461
+  index: 32
+  urn: urn:vl-trafik:stop:063285
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Knipkällan
+  line: 461
+  index: 33
+  urn: urn:vl-trafik:stop:063286
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tvärhandsbäcken
+  line: 461
+  index: 34
+  urn: urn:vl-trafik:stop:063287
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hagaberg
+  line: 461
+  index: 35
+  urn: urn:vl-trafik:stop:063288
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åsen
+  line: 461
+  index: 36
+  urn: urn:vl-trafik:stop:063289
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Solliden
+  line: 461
+  index: 37
+  urn: urn:vl-trafik:stop:063290
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Salbohedsskolan
+  line: 461
+  index: 38
+  urn: urn:vl-trafik:stop:063291
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Salbohed
+  line: 461
+  index: 39
+  urn: urn:vl-trafik:stop:063020
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörsalbo
+  line: 461
+  index: 40
+  urn: urn:vl-trafik:stop:063140
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norrsalbo
+  line: 461
+  index: 41
+  urn: urn:vl-trafik:stop:063141
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Finnbo
+  line: 461
+  index: 42
+  urn: urn:vl-trafik:stop:063142
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hammaren södra
+  line: 461
+  index: 43
+  urn: urn:vl-trafik:stop:063143
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hammaren norra
+  line: 461
+  index: 44
+  urn: urn:vl-trafik:stop:063144
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Islingby
+  line: 461
+  index: 45
+  urn: urn:vl-trafik:stop:063145
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Prosthagsvägen
+  line: 461
+  index: 46
+  urn: urn:vl-trafik:stop:063146
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerfärnebo
+  line: 461
+  index: 47
+  urn: urn:vl-trafik:stop:063021
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerfärnebo skola
+  line: 461
+  index: 48
+  urn: urn:vl-trafik:stop:063332
+  latitude: 0.0
+  longitude: 0.0

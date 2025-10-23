@@ -1,0 +1,57 @@
+stops:
+
+- name: Västerås Central
+  line: 98
+  index: 0
+  urn: urn:vl-trafik:stop:360000
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stora Gatan
+  line: 98
+  index: 1
+  urn: urn:vl-trafik:stop:360001
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Smedjegatan
+  line: 98
+  index: 2
+  urn: urn:vl-trafik:stop:360003
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rudbecksgatan
+  line: 98
+  index: 3
+  urn: urn:vl-trafik:stop:360004
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Universitetet
+  line: 98
+  index: 4
+  urn: urn:vl-trafik:stop:360034
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Arosvallen
+  line: 98
+  index: 5
+  urn: urn:vl-trafik:stop:360035
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sångargatan
+  line: 98
+  index: 6
+  urn: urn:vl-trafik:stop:360036
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Rocklunda S
+  line: 98
+  index: 7
+  urn: urn:vl-trafik:stop:360037
+  latitude: 0.0
+  longitude: 0.0

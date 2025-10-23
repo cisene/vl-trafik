@@ -1,0 +1,295 @@
+stops:
+
+- name: Virsbo, Felingvägen
+  line: 130
+  index: 0
+  urn: urn:vl-trafik:stop:070070
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Karlsgatan
+  line: 130
+  index: 1
+  urn: urn:vl-trafik:stop:070067
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Strandvägen
+  line: 130
+  index: 2
+  urn: urn:vl-trafik:stop:070066
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Smedvägen
+  line: 130
+  index: 3
+  urn: urn:vl-trafik:stop:070065
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Herrgårdsvägen
+  line: 130
+  index: 4
+  urn: urn:vl-trafik:stop:070005
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Jägargatan
+  line: 130
+  index: 5
+  urn: urn:vl-trafik:stop:070004
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sjöviken
+  line: 130
+  index: 6
+  urn: urn:vl-trafik:stop:070003
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörbomsvägen
+  line: 130
+  index: 7
+  urn: urn:vl-trafik:stop:070002
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Wirsbo bruk
+  line: 130
+  index: 8
+  urn: urn:vl-trafik:stop:070000
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Virsbo Jvstn
+  line: 130
+  index: 9
+  urn: urn:vl-trafik:stop:070001
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gammelby handel
+  line: 130
+  index: 10
+  urn: urn:vl-trafik:stop:070009
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gammelby
+  line: 130
+  index: 11
+  urn: urn:vl-trafik:stop:070010
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Muggbo
+  line: 130
+  index: 12
+  urn: urn:vl-trafik:stop:070011
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Murens vsk
+  line: 130
+  index: 13
+  urn: urn:vl-trafik:stop:070012
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Seglingsberg
+  line: 130
+  index: 14
+  urn: urn:vl-trafik:stop:070013
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Källberget
+  line: 130
+  index: 15
+  urn: urn:vl-trafik:stop:070014
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Färmansbo
+  line: 130
+  index: 16
+  urn: urn:vl-trafik:stop:070015
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vestergrens torp
+  line: 130
+  index: 17
+  urn: urn:vl-trafik:stop:070016
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Brattheden
+  line: 130
+  index: 18
+  urn: urn:vl-trafik:stop:070017
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fridnäs (Brattheden)
+  line: 130
+  index: 19
+  urn: urn:vl-trafik:stop:070018
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ramnäsgården
+  line: 130
+  index: 20
+  urn: urn:vl-trafik:stop:070056
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ramnäs IP
+  line: 130
+  index: 21
+  urn: urn:vl-trafik:stop:070058
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Dammvägen
+  line: 130
+  index: 22
+  urn: urn:vl-trafik:stop:070057
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ramnäs Centrum
+  line: 130
+  index: 23
+  urn: urn:vl-trafik:stop:070019
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Bäckhammarskolan
+  line: 130
+  index: 24
+  urn: urn:vl-trafik:stop:070064
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hejarvägen
+  line: 130
+  index: 25
+  urn: urn:vl-trafik:stop:070039
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ramnäs Nya Jvstn
+  line: 130
+  index: 26
+  urn: urn:vl-trafik:stop:070020
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ramnäs kyrkby
+  line: 130
+  index: 27
+  urn: urn:vl-trafik:stop:070021
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ramnäs kyrka
+  line: 130
+  index: 28
+  urn: urn:vl-trafik:stop:070022
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vallonvägen
+  line: 130
+  index: 29
+  urn: urn:vl-trafik:stop:070053
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Källmoravägen
+  line: 130
+  index: 30
+  urn: urn:vl-trafik:stop:070054
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ekbacken
+  line: 130
+  index: 31
+  urn: urn:vl-trafik:stop:070055
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nytorpsskolan (slingan)
+  line: 130
+  index: 32
+  urn: urn:vl-trafik:stop:070068
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nybyggsvägen
+  line: 130
+  index: 33
+  urn: urn:vl-trafik:stop:070008
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vårdcentralen
+  line: 130
+  index: 34
+  urn: urn:vl-trafik:stop:070024
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Tuppkärrsskolan
+  line: 130
+  index: 35
+  urn: urn:vl-trafik:stop:070063
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Enbärsvägen
+  line: 130
+  index: 36
+  urn: urn:vl-trafik:stop:070060
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Musikvägen
+  line: 130
+  index: 37
+  urn: urn:vl-trafik:stop:070026
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Källbergsvägen
+  line: 130
+  index: 38
+  urn: urn:vl-trafik:stop:070027
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Köpmangatan
+  line: 130
+  index: 39
+  urn: urn:vl-trafik:stop:070028
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hammarskolan
+  line: 130
+  index: 40
+  urn: urn:vl-trafik:stop:070062
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Surahammar Jvstn
+  line: 130
+  index: 41
+  urn: urn:vl-trafik:stop:070007
+  latitude: 0.0
+  longitude: 0.0

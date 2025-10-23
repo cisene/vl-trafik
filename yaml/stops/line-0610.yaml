@@ -1,0 +1,43 @@
+stops:
+
+- name: Munga fritidsområde 2
+  line: 610
+  index: 0
+  urn: urn:vl-trafik:stop:060342
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Adelsberg 2
+  line: 610
+  index: 1
+  urn: urn:vl-trafik:stop:060629
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Harakers kyrkby
+  line: 610
+  index: 2
+  urn: urn:vl-trafik:stop:060631
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Svanå herrgård
+  line: 610
+  index: 3
+  urn: urn:vl-trafik:stop:060632
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Munga fritidsområde 4
+  line: 610
+  index: 4
+  urn: urn:vl-trafik:stop:060344
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Persboskolan
+  line: 610
+  index: 5
+  urn: urn:vl-trafik:stop:060065
+  latitude: 0.0
+  longitude: 0.0

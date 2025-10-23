@@ -1,0 +1,57 @@
+stops:
+
+- name: Sala Resecentrum
+  line: 404
+  index: 0
+  urn: urn:vl-trafik:stop:063999
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fiskartorget
+  line: 404
+  index: 1
+  urn: urn:vl-trafik:stop:063002
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ekebygatan
+  line: 404
+  index: 2
+  urn: urn:vl-trafik:stop:063037
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nya vattentornet
+  line: 404
+  index: 3
+  urn: urn:vl-trafik:stop:063113
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Mellandammsvägen
+  line: 404
+  index: 4
+  urn: urn:vl-trafik:stop:063121
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gravhagen
+  line: 404
+  index: 5
+  urn: urn:vl-trafik:stop:063122
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Aspenstorp
+  line: 404
+  index: 6
+  urn: urn:vl-trafik:stop:063123
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sala Silvergruva
+  line: 404
+  index: 7
+  urn: urn:vl-trafik:stop:063269
+  latitude: 0.0
+  longitude: 0.0

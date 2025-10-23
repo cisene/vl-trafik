@@ -1,0 +1,197 @@
+stops:
+
+- name: Västerbykil bygdegård
+  line: 467
+  index: 0
+  urn: urn:vl-trafik:stop:063275
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerbykil
+  line: 467
+  index: 1
+  urn: urn:vl-trafik:stop:063051
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nergården
+  line: 467
+  index: 2
+  urn: urn:vl-trafik:stop:063276
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Mälby vsk
+  line: 467
+  index: 3
+  urn: urn:vl-trafik:stop:063277
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hedåker
+  line: 467
+  index: 4
+  urn: urn:vl-trafik:stop:063278
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Brobacke
+  line: 467
+  index: 5
+  urn: urn:vl-trafik:stop:063052
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Jordbron
+  line: 467
+  index: 6
+  urn: urn:vl-trafik:stop:063373
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stampers
+  line: 467
+  index: 7
+  urn: urn:vl-trafik:stop:063008
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Pilhagen
+  line: 467
+  index: 8
+  urn: urn:vl-trafik:stop:063124
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Styrars
+  line: 467
+  index: 9
+  urn: urn:vl-trafik:stop:063007
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Aspenstorp
+  line: 467
+  index: 10
+  urn: urn:vl-trafik:stop:063123
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Gravhagen
+  line: 467
+  index: 11
+  urn: urn:vl-trafik:stop:063122
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Mellandammsvägen
+  line: 467
+  index: 12
+  urn: urn:vl-trafik:stop:063121
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nya vattentornet
+  line: 467
+  index: 13
+  urn: urn:vl-trafik:stop:063113
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ekebygatan
+  line: 467
+  index: 14
+  urn: urn:vl-trafik:stop:063037
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fiskartorget
+  line: 467
+  index: 15
+  urn: urn:vl-trafik:stop:063002
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sala Resecentrum
+  line: 467
+  index: 16
+  urn: urn:vl-trafik:stop:063999
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Väsbygatan
+  line: 467
+  index: 17
+  urn: urn:vl-trafik:stop:063061
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stockholmsvägen
+  line: 467
+  index: 18
+  urn: urn:vl-trafik:stop:063094
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörskogsleden
+  line: 467
+  index: 19
+  urn: urn:vl-trafik:stop:063093
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Häggebäcken
+  line: 467
+  index: 20
+  urn: urn:vl-trafik:stop:063804
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Johannelund
+  line: 467
+  index: 21
+  urn: urn:vl-trafik:stop:063807
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Båtfinnbo
+  line: 467
+  index: 22
+  urn: urn:vl-trafik:stop:063818
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stora Matsbo
+  line: 467
+  index: 23
+  urn: urn:vl-trafik:stop:063808
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Källtorpet (Västerbykil)
+  line: 467
+  index: 24
+  urn: urn:vl-trafik:stop:063345
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fallänge
+  line: 467
+  index: 25
+  urn: urn:vl-trafik:stop:063363
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Salängen
+  line: 467
+  index: 26
+  urn: urn:vl-trafik:stop:063819
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kungsängsgymnasiet
+  line: 467
+  index: 27
+  urn: urn:vl-trafik:stop:063012
+  latitude: 0.0
+  longitude: 0.0

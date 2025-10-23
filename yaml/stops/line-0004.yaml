@@ -1,0 +1,225 @@
+stops:
+
+- name: Finnslätten N
+  line: 4
+  index: 0
+  urn: urn:vl-trafik:stop:360110
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Elektronikgatan
+  line: 4
+  index: 1
+  urn: urn:vl-trafik:stop:360109
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nätverksgatan
+  line: 4
+  index: 2
+  urn: urn:vl-trafik:stop:360107
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Finnslätten
+  line: 4
+  index: 3
+  urn: urn:vl-trafik:stop:360106
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Norra Malmaberg
+  line: 4
+  index: 4
+  urn: urn:vl-trafik:stop:360105
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Karbenningsgatan
+  line: 4
+  index: 5
+  urn: urn:vl-trafik:stop:360104
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Björskogsgatan
+  line: 4
+  index: 6
+  urn: urn:vl-trafik:stop:360103
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åkarhagsgatan
+  line: 4
+  index: 7
+  urn: urn:vl-trafik:stop:360102
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Haga Parkgata
+  line: 4
+  index: 8
+  urn: urn:vl-trafik:stop:360101
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Korsängen
+  line: 4
+  index: 9
+  urn: urn:vl-trafik:stop:360100
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ängsgärdsgatan
+  line: 4
+  index: 10
+  urn: urn:vl-trafik:stop:360099
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Pilgatan
+  line: 4
+  index: 11
+  urn: urn:vl-trafik:stop:360023
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Östra Ringvägen
+  line: 4
+  index: 12
+  urn: urn:vl-trafik:stop:360007
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västerås Central
+  line: 4
+  index: 13
+  urn: urn:vl-trafik:stop:360000
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västgötegatan
+  line: 4
+  index: 14
+  urn: urn:vl-trafik:stop:060240
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stora Gatan
+  line: 4
+  index: 15
+  urn: urn:vl-trafik:stop:360001
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Källgatan
+  line: 4
+  index: 16
+  urn: urn:vl-trafik:stop:360002
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Oxbacken
+  line: 4
+  index: 17
+  urn: urn:vl-trafik:stop:360008
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Jakobsbergsgatan
+  line: 4
+  index: 18
+  urn: urn:vl-trafik:stop:360085
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Götgatan
+  line: 4
+  index: 19
+  urn: urn:vl-trafik:stop:360086
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Drottninggatan
+  line: 4
+  index: 20
+  urn: urn:vl-trafik:stop:360087
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sotargatan
+  line: 4
+  index: 21
+  urn: urn:vl-trafik:stop:360088
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Pettersbergsgatan
+  line: 4
+  index: 22
+  urn: urn:vl-trafik:stop:360089
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Pettersberg C
+  line: 4
+  index: 23
+  urn: urn:vl-trafik:stop:360090
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ansgars gränd
+  line: 4
+  index: 24
+  urn: urn:vl-trafik:stop:360091
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Brandstation
+  line: 4
+  index: 25
+  urn: urn:vl-trafik:stop:360092
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fatbursgatan
+  line: 4
+  index: 26
+  urn: urn:vl-trafik:stop:360093
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vallby C
+  line: 4
+  index: 27
+  urn: urn:vl-trafik:stop:360094
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kornbodsgatan
+  line: 4
+  index: 28
+  urn: urn:vl-trafik:stop:360095
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Vallby N
+  line: 4
+  index: 29
+  urn: urn:vl-trafik:stop:360096
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hagaberg
+  line: 4
+  index: 30
+  urn: urn:vl-trafik:stop:360097
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Brottberga
+  line: 4
+  index: 31
+  urn: urn:vl-trafik:stop:360098
+  latitude: 0.0
+  longitude: 0.0

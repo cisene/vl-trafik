@@ -1,0 +1,64 @@
+stops:
+
+- name: Västerås Central
+  line: 514
+  index: 0
+  urn: urn:vl-trafik:stop:360000
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Västgötegatan
+  line: 514
+  index: 1
+  urn: urn:vl-trafik:stop:060240
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Biskopsgatan
+  line: 514
+  index: 2
+  urn: urn:vl-trafik:stop:060370
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Erikslund N
+  line: 514
+  index: 3
+  urn: urn:vl-trafik:stop:060173
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Lillhärads vsk
+  line: 514
+  index: 4
+  urn: urn:vl-trafik:stop:060381
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Musikvägen
+  line: 514
+  index: 5
+  urn: urn:vl-trafik:stop:070026
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Källbergsvägen
+  line: 514
+  index: 6
+  urn: urn:vl-trafik:stop:070027
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Köpmangatan
+  line: 514
+  index: 7
+  urn: urn:vl-trafik:stop:070028
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Surahammar Jvstn
+  line: 514
+  index: 8
+  urn: urn:vl-trafik:stop:070007
+  latitude: 0.0
+  longitude: 0.0

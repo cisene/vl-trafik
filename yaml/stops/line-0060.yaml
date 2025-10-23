@@ -1,0 +1,323 @@
+stops:
+
+- name: Sala Resecentrum
+  line: 60
+  index: 0
+  urn: urn:vl-trafik:stop:063999
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kungsängsgymnasiet
+  line: 60
+  index: 1
+  urn: urn:vl-trafik:stop:063012
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Sörskogsleden
+  line: 60
+  index: 2
+  urn: urn:vl-trafik:stop:063093
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Stockholmsvägen
+  line: 60
+  index: 3
+  urn: urn:vl-trafik:stop:063094
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Väsbygatan
+  line: 60
+  index: 4
+  urn: urn:vl-trafik:stop:063061
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fiskartorget
+  line: 60
+  index: 5
+  urn: urn:vl-trafik:stop:063002
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Karpgatan
+  line: 60
+  index: 6
+  urn: urn:vl-trafik:stop:063191
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Mamre
+  line: 60
+  index: 7
+  urn: urn:vl-trafik:stop:063315
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ensta
+  line: 60
+  index: 8
+  urn: urn:vl-trafik:stop:063163
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Prästgården
+  line: 60
+  index: 9
+  urn: urn:vl-trafik:stop:063164
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kornmanstorp södra
+  line: 60
+  index: 10
+  urn: urn:vl-trafik:stop:063165
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kornmanstorp norra
+  line: 60
+  index: 11
+  urn: urn:vl-trafik:stop:063166
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Katrinelund
+  line: 60
+  index: 12
+  urn: urn:vl-trafik:stop:063167
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ingeborg
+  line: 60
+  index: 13
+  urn: urn:vl-trafik:stop:063168
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Framnäs
+  line: 60
+  index: 14
+  urn: urn:vl-trafik:stop:063169
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Köpalla
+  line: 60
+  index: 15
+  urn: urn:vl-trafik:stop:063170
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fågelsbo
+  line: 60
+  index: 16
+  urn: urn:vl-trafik:stop:063171
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åby
+  line: 60
+  index: 17
+  urn: urn:vl-trafik:stop:063172
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Saladamm Södra
+  line: 60
+  index: 18
+  urn: urn:vl-trafik:stop:063173
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Saladamm
+  line: 60
+  index: 19
+  urn: urn:vl-trafik:stop:063016
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Saladamm norra
+  line: 60
+  index: 20
+  urn: urn:vl-trafik:stop:063174
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Armanbo
+  line: 60
+  index: 21
+  urn: urn:vl-trafik:stop:063175
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Delbo vsk
+  line: 60
+  index: 22
+  urn: urn:vl-trafik:stop:063176
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Delbo
+  line: 60
+  index: 23
+  urn: urn:vl-trafik:stop:063177
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Heden
+  line: 60
+  index: 24
+  urn: urn:vl-trafik:stop:063178
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Hagalund
+  line: 60
+  index: 25
+  urn: urn:vl-trafik:stop:063179
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fallet, Jugansbo
+  line: 60
+  index: 26
+  urn: urn:vl-trafik:stop:063184
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Fröstbo
+  line: 60
+  index: 27
+  urn: urn:vl-trafik:stop:063180
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Jugansbo gård
+  line: 60
+  index: 28
+  urn: urn:vl-trafik:stop:063181
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Jugansbo
+  line: 60
+  index: 29
+  urn: urn:vl-trafik:stop:063017
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Heby vsk
+  line: 60
+  index: 30
+  urn: urn:vl-trafik:stop:063185
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kyllinge kvarn
+  line: 60
+  index: 31
+  urn: urn:vl-trafik:stop:063186
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nyby
+  line: 60
+  index: 32
+  urn: urn:vl-trafik:stop:063040
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nyby tegelbruk
+  line: 60
+  index: 33
+  urn: urn:vl-trafik:stop:063187
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Nyby S
+  line: 60
+  index: 34
+  urn: urn:vl-trafik:stop:063355
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Danielsberg
+  line: 60
+  index: 35
+  urn: urn:vl-trafik:stop:063188
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Härsta
+  line: 60
+  index: 36
+  urn: urn:vl-trafik:stop:063189
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ölsta
+  line: 60
+  index: 37
+  urn: urn:vl-trafik:stop:063039
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ölsta skola
+  line: 60
+  index: 38
+  urn: urn:vl-trafik:stop:063322
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Skälby
+  line: 60
+  index: 39
+  urn: urn:vl-trafik:stop:063023
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Ösby skola
+  line: 60
+  index: 40
+  urn: urn:vl-trafik:stop:063038
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åby skola
+  line: 60
+  index: 41
+  urn: urn:vl-trafik:stop:063801
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Silvermyntgatan
+  line: 60
+  index: 42
+  urn: urn:vl-trafik:stop:063192
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åkraskolan
+  line: 60
+  index: 43
+  urn: urn:vl-trafik:stop:063004
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Åkraskolan Johannisbergsgatan
+  line: 60
+  index: 44
+  urn: urn:vl-trafik:stop:063364
+  latitude: 0.0
+  longitude: 0.0
+
+- name: Kungsgatan
+  line: 60
+  index: 45
+  urn: urn:vl-trafik:stop:063060
+  latitude: 0.0
+  longitude: 0.0
